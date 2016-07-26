@@ -4,7 +4,7 @@ Repository for ANSP Vertebrate Paleontology database. Intended for use by lab vo
 
 > This table describes all the fields currently used in the database. It is a reference for entering data correctly and using the correct vocabulary or structure each fields requires. Controlled vocabulary is very important to make sure that records are acurrate and can be used for other programs. Data should be entered as complete as possible for every field.
 
-> The first column 'FileMaker' is the name of the column in FileMaker.
+> The first column 'FileMaker' is the name of the column in FileMaker. They are shown here in the order found in FileMaker.
 
 > The second column 'Darwin Core Field' is the name of the matching fields used by the Darwin Core standards (http://rs.tdwg.org/dwc/terms/index.htm). This is important when the data is added to external projects like iDigBio (https://www.idigbio.org/) or larger databases within the Academy.
 
@@ -16,7 +16,7 @@ Repository for ANSP Vertebrate Paleontology database. Intended for use by lab vo
 
 | FileMaker Field | Corresponding Darwin Core Field | Definition | Example |
 |---|---|---|---|
-| catalog ID ||A unique identifier for the Occurrence (auotmatically generated)||
+| catalog ID ||A unique identifier for the Record (auotmatically generated)||
 | catalog # ||An identifier for the Record within the data set or collection||
 | element ||The combination of all morphological terms for the Record||
 | count ||The number of individuals represented present in the Record||
@@ -25,21 +25,23 @@ Repository for ANSP Vertebrate Paleontology database. Intended for use by lab vo
 | order (suborder) ||The full scientific name of the order in which the Taxon is classified. Suborder can be listed in paranthesis () if known. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
 | family (subfamily) ||The full scientific name of the family in which the Taxon is classified. Subfamily can be listed in paranthesis () if known. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable ||
 | genus (subgenus) species ||The full scientific name of the genus, (subgenus) and species in which the Taxon is classified. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
-| identification by ||A list of names of people or groups who assigned the Taxon to the Record. This is followed by the year (if known) in parantheses on which the Record was identified as representing the Taxon||
 | taxon notes ||Comments or notes about the taxon or name||
+| identification by ||A list of names of people or groups who assigned the Taxon to the Record. This is followed by the year (if known) in parantheses on which the Record was identified as representing the Taxon||
 | identification notes ||Comments or notes about the Identification||
 | preparation notes ||A list of preparators and preservation methods for the Record||
-| collectors ||A list of names of people or groups who collected the original Record||
 | coordinates ||The spatial coordinates of the Location in degrees, minutes, seconds. Written as DD°MM'SS" N, DD°MM'SS" E OR DD°MM.MM' N, DD°MM.MM' E||
-| latitude ||The geographic latitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -90 and 90, inclusive||
-| longitude ||The geographic longitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -180 and 180, inclusive||
+| decimmal latitude ||The geographic latitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -90 and 90, inclusive||
+| decimal longitude ||The geographic longitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -180 and 180, inclusive||
 | datum ||The ellipsoid, geodetic datum, or spatial reference system (SRS) upon which the geographic coordinates are based||
 | georeferenced by ||A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parantheses on which the Record was georeferenced||
 | georeference notes ||Notes or comments about the spatial description determination||
 | field # ||An identifier given to the Event in the field||
 | field notes ||One of a) an indicator of the existence of, b) a reference to (publication, URI), or c) the text of notes taken in the field about the Event||
+| collectors ||A list of names of people or groups who collected the original Record||
 | date collected ||The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
 | country ||The name of the country or major unit in which the Location occurs||
+| state ||The name of the state or province unit in which the Location occurs||
+| county ||The name of the county or parish unit in which the Location occurs||
 | locality name ||The specific description of the Location||
 | location notes ||Comments or notes about the Location, related to a specific region||
 | event notes ||Comments or notes about the Event, related to the collection process or some other event in time||
@@ -51,6 +53,7 @@ Repository for ANSP Vertebrate Paleontology database. Intended for use by lab vo
 | media ||A list of of identifiers (publication, global unique identifier, URI) of media associated with the Record||
 | references ||A list of identifiers (publication, bibliographic reference, global unique identifier, URI) of literature associated with the Record||
 | citation ||A bibliographic reference for the resource as a statement indicating how this record should be cited (attributed) when used (auotmatically generated)||
+| withhold ||Reason for witholding data from publication, ie. for privacy concerns||
 | created ||The date when the Record was created (auotmatically generated)||
 | created by ||The user account which created the Record (auotmatically generated)||
 | modified ||The most recent date on which the Record was changed (auotmatically generated)||
