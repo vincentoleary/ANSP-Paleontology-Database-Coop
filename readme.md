@@ -31,7 +31,7 @@ When using the ANSP database to enter data, refer to the FileMaker fields and ex
 |collection|datasetName|The name identifying the project or donation from which the Record was derived||
 |N/A|basisOfRecord|The specific nature of the data record|FossilSpecimen|
 |withhold|informationWithheld|Reason for witholding data from publication, ie. for privacy or environmental concerns||
-|other information|NULL|Any other information that is not captured in other fields for the Record (auotmatically generated)||
+|other information||Any other information that is not captured in other fields for the Record (auotmatically generated)||
 
 ###Occurrence terms
 |FileMaker Field|Darwin Core Field|Definition|Example|
@@ -46,9 +46,19 @@ When using the ANSP database to enter data, refer to the FileMaker fields and ex
 |references|associatedReferences|A list of identifiers (publication, bibliographic reference, global unique identifier, URI) of literature associated with the Record||
 |occurrence notes|occurrenceRemarks|Comments or notes about the Occurrence, related to how the catalogued item was collected or observations from the field about the Record||
 
-###Organism terms
+###Event terms
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
+|field #|fieldNumber|An identifier given to the Event in the field||
+|date collected|Year|The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
+|date collected|Month|The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
+|date collected|Day|The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
+|date collected|verbatimEventDate|The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
+|field notes|fieldNotes|One of a) an indicator of the existence of, b) a reference to (publication, URI), or c) the text of notes taken in the field about the Event||
+|event notes|eventRemarks|Comments or notes about the Event, related to the collection process or some other event in time||
+
+
+
 |element|identificationRemarks|The combination of all morphological terms for the Record||
 |type status|typeStatus|Nomenclatural types (type status, typified scientific name, publication) applied to the Record||
 |higher taxa|higherClassification|A list of taxa/clade ranks superior to order. Do not use punctuation to separate terms. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
@@ -69,19 +79,14 @@ When using the ANSP database to enter data, refer to the FileMaker fields and ex
 |georeferenced by|georeferencedBy|A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parantheses on which the Record was georeferenced||
 |georeferenced by|georeferencesDate|A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parantheses on which the Record was georeferenced||
 |georeference notes|georeferenceRemarks|Notes or comments about the spatial description determination||
-|field #|fieldNumber|An identifier given to the Event in the field||
-|field notes|fieldNotes|One of a) an indicator of the existence of, b) a reference to (publication, URI), or c) the text of notes taken in the field about the Event||
-|date collected|verbatimEventDate|The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
-|date collected|Year|The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
-|date collected|Month|The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
-|date collected|Day|The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
+
+
 |NULL|continent|The name of the continent in which the Location occurs||
 |country|country|The name of the country or major unit in which the Location occurs||
 |state|stateProvince|The name of the state or province unit in which the Location occurs||
 |county|county|The name of the county or parish unit in which the Location occurs||
 |locality name|verbatimLocality|The specific description of the Location||
 |location notes|locationRemarks|Comments or notes about the Location, related to a specific region||
-|event notes|eventRemarks|Comments or notes about the Event, related to the collection process or some other event in time||
 |geologic age|earliestAgeOrLowestAge|The full name of the geochronologic age or chronostratigraphic stage attributable to the stratigraphic horizon from which the cataloged item was collected||
 |lithologic notes|lithostratigraphicTerms|The combination of all litho-stratigraphic names for the rock from which the cataloged item was collected||
 
