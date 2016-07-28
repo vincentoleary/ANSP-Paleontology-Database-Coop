@@ -33,13 +33,23 @@ When using the ANSP database to enter data, refer to the FileMaker fields and ex
 |withhold|informationWithheld|Reason for witholding data from publication, ie. for privacy or environmental concerns||
 |other information|NULL|Any other information that is not captured in other fields for the Record (auotmatically generated)||
 
-
+###Occurrence terms
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
 |catalog ID|occurrenceID|A unique identifier for the Record (auotmatically generated)||
 |catalog #|catalogNumber|An identifier for the Record within the data set or collection||
-|element|identificationRemarks|The combination of all morphological terms for the Record||
+|collectors|recordedBy|A list of names of people or groups who collected the original Record||
 |count|individualCount|The number of individuals represented present in the Record||
+|preparation notes|preparations|A list of preparators and preservation methods for the Record||
+|disposition|disposition|The current state of a Record with respect to the collection at ANSP||
+|media|associatedMedia|A list of of identifiers (publication, global unique identifier, URI) of media associated with the Record||
+|references|associatedReferences|A list of identifiers (publication, bibliographic reference, global unique identifier, URI) of literature associated with the Record||
+|occurrence notes|occurrenceRemarks|Comments or notes about the Occurrence, related to how the catalogued item was collected or observations from the field about the Record||
+
+###Organism terms
+|FileMaker Field|Darwin Core Field|Definition|Example|
+|---|---|---|---|
+|element|identificationRemarks|The combination of all morphological terms for the Record||
 |type status|typeStatus|Nomenclatural types (type status, typified scientific name, publication) applied to the Record||
 |higher taxa|higherClassification|A list of taxa/clade ranks superior to order. Do not use punctuation to separate terms. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
 |order (suborder)|order|The full scientific name of the order in which the Taxon is classified. Suborder can be listed in paranthesis () if known. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
@@ -52,7 +62,6 @@ When using the ANSP database to enter data, refer to the FileMaker fields and ex
 |identification by|identifiedBy|A list of names of people or groups who assigned the Taxon to the Record. This is followed by the year (if known) in parantheses on which the Record was identified as representing the Taxon||
 |identification by|dateIdentified|A list of names of people or groups who assigned the Taxon to the Record. This is followed by the year (if known) in parantheses on which the Record was identified as representing the Taxon||
 |identification notes|identificationRemarks|Comments or notes about the Identification||
-|preparation notes|preparations|A list of preparators and preservation methods for the Record||
 |coordinates|verbatimCoordinates|The spatial coordinates of the Location in degrees, minutes, seconds. Written as DD°MM'SS" N, DD°MM'SS" E OR DD°MM.MM' N, DD°MM.MM' E||
 |decimmal latitude|decimalLatitude|The geographic latitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -90 and 90, inclusive||
 |decimal longitude|decimalLongitude|The geographic longitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -180 and 180, inclusive||
@@ -62,7 +71,6 @@ When using the ANSP database to enter data, refer to the FileMaker fields and ex
 |georeference notes|georeferenceRemarks|Notes or comments about the spatial description determination||
 |field #|fieldNumber|An identifier given to the Event in the field||
 |field notes|fieldNotes|One of a) an indicator of the existence of, b) a reference to (publication, URI), or c) the text of notes taken in the field about the Event||
-|collectors|recordedBy|A list of names of people or groups who collected the original Record||
 |date collected|verbatimEventDate|The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
 |date collected|Year|The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
 |date collected|Month|The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
@@ -74,12 +82,7 @@ When using the ANSP database to enter data, refer to the FileMaker fields and ex
 |locality name|verbatimLocality|The specific description of the Location||
 |location notes|locationRemarks|Comments or notes about the Location, related to a specific region||
 |event notes|eventRemarks|Comments or notes about the Event, related to the collection process or some other event in time||
-|occurrence notes|occurrenceRemarks|Comments or notes about the Occurrence, related to how the catalogued item was collected or observations from the field about the Record||
 |geologic age|earliestAgeOrLowestAge|The full name of the geochronologic age or chronostratigraphic stage attributable to the stratigraphic horizon from which the cataloged item was collected||
 |lithologic notes|lithostratigraphicTerms|The combination of all litho-stratigraphic names for the rock from which the cataloged item was collected||
-
-|disposition|disposition|The current state of a Record with respect to the collection at ANSP||
-|media|associatedMedia|A list of of identifiers (publication, global unique identifier, URI) of media associated with the Record||
-|references|associatedReferences|A list of identifiers (publication, bibliographic reference, global unique identifier, URI) of literature associated with the Record||
 
 
