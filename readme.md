@@ -50,44 +50,51 @@ When using the ANSP database to enter data, refer to the FileMaker fields and ex
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
 |field #|fieldNumber|An identifier given to the Event in the field||
-|date collected|Year|The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
-|date collected|Month|The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
-|date collected|Day|The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
 |date collected|verbatimEventDate|The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
 |field notes|fieldNotes|One of a) an indicator of the existence of, b) a reference to (publication, URI), or c) the text of notes taken in the field about the Event||
 |event notes|eventRemarks|Comments or notes about the Event, related to the collection process or some other event in time||
 
-
-
-|element|identificationRemarks|The combination of all morphological terms for the Record||
-|type status|typeStatus|Nomenclatural types (type status, typified scientific name, publication) applied to the Record||
-|higher taxa|higherClassification|A list of taxa/clade ranks superior to order. Do not use punctuation to separate terms. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
-|order (suborder)|order|The full scientific name of the order in which the Taxon is classified. Suborder can be listed in paranthesis () if known. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
-|family (subfamily)|family|The full scientific name of the family in which the Taxon is classified. Subfamily can be listed in paranthesis () if known. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable ||
-|genus (subgenus) species|genus|The full scientific name of the genus, (subgenus) and species in which the Taxon is classified. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
-|genus (subgenus) species|specificEpithet|The full scientific name of the genus, (subgenus) and species in which the Taxon is classified. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
-|NULL|scientificName|The full scientific name of the Taxon||
-|NULL|identificationQualifier|A brief phrase ("cf.") to express the determiner's doubts about the identification||
-|taxon notes|taxonRemarks|Comments or notes about the taxon or name||
-|identification by|identifiedBy|A list of names of people or groups who assigned the Taxon to the Record. This is followed by the year (if known) in parantheses on which the Record was identified as representing the Taxon||
-|identification by|dateIdentified|A list of names of people or groups who assigned the Taxon to the Record. This is followed by the year (if known) in parantheses on which the Record was identified as representing the Taxon||
-|identification notes|identificationRemarks|Comments or notes about the Identification||
-|coordinates|verbatimCoordinates|The spatial coordinates of the Location in degrees, minutes, seconds. Written as DD°MM'SS" N, DD°MM'SS" E OR DD°MM.MM' N, DD°MM.MM' E||
-|decimmal latitude|decimalLatitude|The geographic latitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -90 and 90, inclusive||
-|decimal longitude|decimalLongitude|The geographic longitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -180 and 180, inclusive||
-|datum|geodeticDatum|The ellipsoid, geodetic datum, or spatial reference system (SRS) upon which the geographic coordinates are based||
-|georeferenced by|georeferencedBy|A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parantheses on which the Record was georeferenced||
-|georeferenced by|georeferencesDate|A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parantheses on which the Record was georeferenced||
-|georeference notes|georeferenceRemarks|Notes or comments about the spatial description determination||
-
-
-|NULL|continent|The name of the continent in which the Location occurs||
+###Location terms
+|FileMaker Field|Darwin Core Field|Definition|Example|
+|---|---|---|---|
+|N/A|continent|The name of the continent in which the Location occurs||
 |country|country|The name of the country or major unit in which the Location occurs||
 |state|stateProvince|The name of the state or province unit in which the Location occurs||
 |county|county|The name of the county or parish unit in which the Location occurs||
 |locality name|verbatimLocality|The specific description of the Location||
 |location notes|locationRemarks|Comments or notes about the Location, related to a specific region||
+|decimal longitude|decimalLongitude|The geographic longitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -180 and 180, inclusive||
+|decimmal latitude|decimalLatitude|The geographic latitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -90 and 90, inclusive||
+|datum|geodeticDatum|The ellipsoid, geodetic datum, or spatial reference system (SRS) upon which the geographic coordinates are based||
+|coordinates|verbatimCoordinates|The spatial coordinates of the Location in degrees, minutes, seconds. Written as DD°MM'SS" N, DD°MM'SS" E OR DD°MM.MM' N, DD°MM.MM' E||
+|georeferenced by|georeferencedBy|A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parantheses on which the Record was georeferenced||
+|georeferenced by|georeferencesDate|A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parantheses on which the Record was georeferenced||
+|georeference notes|georeferenceRemarks|Notes or comments about the spatial description determination||
+
+###Geologic Context terms
+|FileMaker Field|Darwin Core Field|Definition|Example|
+|---|---|---|---|
 |geologic age|earliestAgeOrLowestAge|The full name of the geochronologic age or chronostratigraphic stage attributable to the stratigraphic horizon from which the cataloged item was collected||
 |lithologic notes|lithostratigraphicTerms|The combination of all litho-stratigraphic names for the rock from which the cataloged item was collected||
 
+###Identification terms
+|FileMaker Field|Darwin Core Field|Definition|Example|
+|---|---|---|---|
+|NULL|identificationQualifier|A brief phrase ("cf.") to express the determiner's doubts about the identification||
+|type status|typeStatus|Nomenclatural types (type status, typified scientific name, publication) applied to the Record||
+|identification by|identifiedBy|A list of names of people or groups who assigned the Taxon to the Record. This is followed by the year (if known) in parantheses on which the Record was identified as representing the Taxon||
+|identification by|dateIdentified|A list of names of people or groups who assigned the Taxon to the Record. This is followed by the year (if known) in parantheses on which the Record was identified as representing the Taxon||
+|element|identificationRemarks|The combination of all morphological terms for the Record identification||
+|identification notes|identificationRemarks|Comments or notes about the Identification||
 
+###Taxon terms
+|FileMaker Field|Darwin Core Field|Definition|Example|
+|---|---|---|---|
+|N/A|scientificName|The full scientific name of the Taxon||
+|higher taxa|higherClassification|A list of taxa/clade ranks superior to order. Do not use punctuation to separate terms. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
+|order (suborder)|order|The full scientific name of the order in which the Taxon is classified. Suborder can be listed in paranthesis () if known. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
+|family (subfamily)|family|The full scientific name of the family in which the Taxon is classified. Subfamily can be listed in paranthesis () if known. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable ||
+|genus (subgenus) species|genus|The full scientific name of the genus, (subgenus) and species in which the Taxon is classified. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
+|genus (subgenus) species|specificEpithet|The full scientific name of the genus, (subgenus) and species in which the Taxon is classified. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
+|rank|verbatimTaxonRank|The taxonomic rank of the most specific name in the scientificName as it appears in the original record||
+|taxon notes|taxonRemarks|Comments or notes about the taxon or name||
