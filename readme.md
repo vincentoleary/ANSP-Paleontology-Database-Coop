@@ -28,73 +28,73 @@ When using the ANSP database to enter data, refer to the FileMaker fields and ex
 |citation|dcterms:bibliographicCitation|A bibliographic reference for the resource as a statement indicating how this record should be cited (attributed) when used (auotmatically generated)|"Ctenomys sociabilis (MVZ 165861)" for a specimen|
 |N/A|institutionCode|The name (or acronym) in use by the institution having custody of the object(s) or information referred to in the record|ANSP|
 |N/A|collectionCode|The name, acronym, coden, or initialism identifying the collection or data set from which the record was derived|Vertebrate Paleontology|
-|collection|datasetName|The name identifying the project or donation from which the Record was derived||
+|collection|datasetName|The name identifying the project or donation from which the Record was derived|"Donated by Dr. Smith, c. 1848" "Smith Collection"|
 |N/A|basisOfRecord|The specific nature of the data record|FossilSpecimen|
-|withhold|informationWithheld|Reason for witholding data from publication, ie. for privacy or environmental concerns||
-|other information||Any other information that is not captured in other fields for the Record (auotmatically generated)||
+|withhold|informationWithheld|Reason for witholding data from publication, ie. for privacy or environmental concerns|"Private field location" "Landowner permissions did not allow public sharing" "Rare specimen that should not be made public"|
+|other information||Any other information that is not captured in other fields for the Record||
 
 ###Occurrence terms
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
-|catalog ID|occurrenceID|A unique identifier for the Record (auotmatically generated)||
-|catalog #|catalogNumber|An identifier for the Record within the data set or collection||
-|collectors|recordedBy|A list of names of people or groups who collected the original Record||
-|count|individualCount|The number of individuals represented present in the Record||
-|preparation notes|preparations|A list of preparators and preservation methods for the Record||
-|disposition|disposition|The current state of a Record with respect to the collection at ANSP||
-|media|associatedMedia|A list of of identifiers (publication, global unique identifier, URI) of media associated with the Record||
-|references|associatedReferences|A list of identifiers (publication, bibliographic reference, global unique identifier, URI) of literature associated with the Record||
-|occurrence notes|occurrenceRemarks|Comments or notes about the Occurrence, related to how the catalogued item was collected or observations from the field about the Record||
+|catalog ID|occurrenceID|A unique identifier for the Record (auotmatically generated)|IEANS0001|
+|catalog #|catalogNumber|An identifier for the Record within the data set or collection|"100.1" "10a" "1000"|
+|collectors|recordedBy|A list of names of people or groups who collected the original Record|John Smith|
+|count|individualCount|The number of individuals represented present in the Record|"1" "10"|
+|preparation notes|preparations|A list of preparators and preservation methods for the Record|"John Smith, cast" "SEM thin section"|
+|disposition|disposition|The current state of a Record with respect to the collection at ANSP|"in collection" "voucher elsewhere" "duplicates elsewhere"|
+|media|associatedMedia|A list of of identifiers (publication, global unique identifier, URI) of media associated with the Record|"http://arctos.database.museum/SpecimenImages/UAMObs/Mamm/2/P7291179.JPG"|
+|references|associatedReferences|A list of identifiers (publication, bibliographic reference, global unique identifier, URI) of literature associated with the Record|"http://www.sciencemag.org/cgi/content/abstract/322/5899/261", "Christopher J. Conroy, Jennifer L. Neuwald. 2008. Phylogeographic study of the California vole, Microtus californicus Journal of Mammalogy, 89(3):755-767."|
+|occurrence notes|occurrenceRemarks|Comments or notes about the Occurrence, related to how the catalogued item was collected or observations from the field about the Record|"Isolated fragment from overhanging slab"|
 
 ###Event terms
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
-|field #|fieldNumber|An identifier given to the Event in the field||
-|date collected|verbatimEventDate|The date when the Record was collected, written as Month, Day, Year or MM/DD/YYYY. (Month must be written first)||
-|field notes|fieldNotes|One of a) an indicator of the existence of, b) a reference to (publication, URI), or c) the text of notes taken in the field about the Event||
-|event notes|eventRemarks|Comments or notes about the Event, related to the collection process or some other event in time||
+|field #|fieldNumber|An identifier given to the Event in the field|A.10.01|
+|date collected|verbatimEventDate|The date when the Record was collected, written as Month Day, Year or MM/DD/YYYY. (Month must be written first)|"January 1, 2016" "12/25/1995"|
+|field notes|fieldNotes|One of a) an indicator of the existence of, b) a reference to (publication, URI), or c) the text of notes taken in the field about the Event|"Notes available upon request"|
+|event notes|eventRemarks|Comments or notes about the Event, related to the collection process or some other event in time|"After recent rain events that exposed southern side of creek bed"|
 
 ###Location terms
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
-|N/A|continent|The name of the continent in which the Location occurs||
-|country|country|The name of the country or major unit in which the Location occurs||
-|state|stateProvince|The name of the state or province unit in which the Location occurs||
-|county|county|The name of the county or parish unit in which the Location occurs||
-|locality name|verbatimLocality|The specific description of the Location||
-|location notes|locationRemarks|Comments or notes about the Location, related to a specific region||
-|decimal longitude|decimalLongitude|The geographic longitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -180 and 180, inclusive||
-|decimmal latitude|decimalLatitude|The geographic latitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -90 and 90, inclusive||
-|datum|geodeticDatum|The ellipsoid, geodetic datum, or spatial reference system (SRS) upon which the geographic coordinates are based||
-|coordinates|verbatimCoordinates|The spatial coordinates of the Location in degrees, minutes, seconds. Written as DD°MM'SS" N, DD°MM'SS" E OR DD°MM.MM' N, DD°MM.MM' E||
-|georeferenced by|georeferencedBy|A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parantheses on which the Record was georeferenced||
-|georeferenced by|georeferencesDate|A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parantheses on which the Record was georeferenced||
-|georeference notes|georeferenceRemarks|Notes or comments about the spatial description determination||
+|N/A|continent|The name of the continent in which the Location occurs|North America|
+|country|country|The name of the country or major unit in which the Location occurs|Canada|
+|state|stateProvince|The name of the state or province unit in which the Location occurs|Pennsylvannia|
+|county|county|The name of the county or parish unit in which the Location occurs|Clinton County|
+|locality name|verbatimLocality|The specific description of the Location|"Durdham Down, near Bristol" "Big Bone Lick"|
+|location notes|locationRemarks|Comments or notes about the Location, related to a specific region|"Underwater since 2005"|
+|decimal longitude|decimalLongitude|The geographic longitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -180 and 180, inclusive|-100.1010|
+|decimmal latitude|decimalLatitude|The geographic latitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -90 and 90, inclusive|10.1010|
+|datum|geodeticDatum|The ellipsoid, geodetic datum, or spatial reference system (SRS) upon which the geographic coordinates are based|"EPSG:4326" "WGS84" "NAD27"|
+|coordinates|verbatimCoordinates|The spatial coordinates of the Location in degrees, minutes, seconds. Written as DD°MM'SS" N, DD°MM'SS" E OR DD°MM.MM' N, DD°MM.MM' E|67°02'34"S, 07°32'29"E|
+|georeferenced by|georeferencedBy|A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parentheses on which the Record was georeferenced|John Smith (2000)|
+|georeferenced by|georeferencesDate|A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parentheses on which the Record was georeferenced|John Smith (2000)|
+|georeference notes|georeferenceRemarks|Notes or comments about the spatial description determination|"assumed distance by road (Hwy. 101)"|
 
 ###Geologic Context terms
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
-|geologic age|earliestAgeOrLowestAge|The full name of the geochronologic age or chronostratigraphic stage attributable to the stratigraphic horizon from which the cataloged item was collected||
-|lithologic notes|lithostratigraphicTerms|The combination of all litho-stratigraphic names for the rock from which the cataloged item was collected||
+|geologic age|earliestAgeOrLowestAge|The full name of the geochronologic age or chronostratigraphic stage attributable to the stratigraphic horizon from which the cataloged item was collected|Late Cretaceous (Campanian)|
+|lithologic notes|lithostratigraphicTerms|The combination of all litho-stratigraphic names for the rock from which the cataloged item was collected|Lower Hornerstown Formation|
 
 ###Identification terms
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
-|NULL|identificationQualifier|A brief phrase ("cf.") to express the determiner's doubts about the identification||
-|type status|typeStatus|Nomenclatural types (type status, typified scientific name, publication) applied to the Record||
-|identification by|identifiedBy|A list of names of people or groups who assigned the Taxon to the Record. This is followed by the year (if known) in parantheses on which the Record was identified as representing the Taxon||
-|identification by|dateIdentified|A list of names of people or groups who assigned the Taxon to the Record. This is followed by the year (if known) in parantheses on which the Record was identified as representing the Taxon||
-|element|identificationRemarks|The combination of all morphological terms for the Record identification||
-|identification notes|identificationRemarks|Comments or notes about the Identification||
+|NULL|identificationQualifier|A brief phrase ("cf.") to express the determiner's doubts about the identification|"cf.  A. oxyrhynchus" "Teleopternus orientalis = Holomeniscus orientalis" "Adocus sp."|
+|type status|typeStatus|Nomenclatural types (type status, typified scientific name, publication) applied to the Record|"holotype" "holotype of Ctenomys sociabilis. Pearson O. P., and M. I. Christie. 1985. Historia Natural, 5(37):388"|
+|identification by|identifiedBy|A list of names of people or groups who assigned the Taxon to the Record. This is followed by the year (if known) in parentheses on which the Record was identified as representing the Taxon|John Smith (2000)|
+|identification by|dateIdentified|A list of names of people or groups who assigned the Taxon to the Record. This is followed by the year (if known) in parentheses on which the Record was identified as representing the Taxon|John Smith (2000)|
+|element|identificationRemarks|The combination of all morphological terms for the Record identification|partial rt. dentary in matrix w. p/3, p/4, M/1|
+|identification notes|identificationRemarks|Comments or notes about the Identification|Distinguished between Anthus correndera and Anthus hellmayri based on the comparative lengths of the uñas|
 
 ###Taxon terms
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
 |N/A|scientificName|The full scientific name of the Taxon||
-|higher taxa|higherClassification|A list of taxa/clade ranks superior to order. Do not use punctuation to separate terms. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
-|order (suborder)|order|The full scientific name of the order in which the Taxon is classified. Suborder can be listed in paranthesis () if known. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
-|family (subfamily)|family|The full scientific name of the family in which the Taxon is classified. Subfamily can be listed in paranthesis () if known. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable ||
-|genus (subgenus) species|genus|The full scientific name of the genus, (subgenus) and species in which the Taxon is classified. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
-|genus (subgenus) species|specificEpithet|The full scientific name of the genus, (subgenus) and species in which the Taxon is classified. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable||
-|rank|verbatimTaxonRank|The taxonomic rank of the most specific name in the scientificName as it appears in the original record||
-|taxon notes|taxonRemarks|Comments or notes about the taxon or name||
+|higher taxa|higherClassification|A list of taxa/clade ranks superior to order. Do not use punctuation to separate terms. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable|Mammalia|
+|order (suborder)|order|The full scientific name of the order in which the Taxon is classified. Suborder can be listed in parentheses () if known. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable|Crocodylia|
+|family (subfamily)|family|The full scientific name of the family in which the Taxon is classified. Subfamily can be listed in parentheses () if known. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable |Erethizontidae|
+|genus (subgenus) species|genus|The full scientific name of the genus, (subgenus) and species in which the Taxon is classified. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable|Tiktaalik roseae|
+|genus (subgenus) species|specificEpithet|The full scientific name of the genus, (subgenus) and species in which the Taxon is classified. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable|Tiktaalik roseae|
+|rank|verbatimTaxonRank|The taxonomic rank of the most specific name in the scientificName as it appears in the original record|"species" "order"|
+|taxon notes|taxonRemarks|Comments or notes about the taxon or name|"this name is a misspelling in common use"|
