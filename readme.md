@@ -42,17 +42,17 @@ When using the ANSP database to enter data, refer to the FileMaker fields and ex
 |count|individualCount|The number of individuals represented present in the Record|"1" "10"|
 |preparation notes|preparations|A list of preparators and preservation methods for the Record|"John Smith, cast" "SEM thin section"|
 |disposition|disposition|The current state of a Record with respect to the collection at ANSP|"in collection" "voucher elsewhere" "duplicates elsewhere"|
-|media|associatedMedia|A list of of identifiers (publication, global unique identifier, URI) of media associated with the Record|"http://arctos.database.museum/SpecimenImages/UAMObs/Mamm/2/P7291179.JPG"|
-|references|associatedReferences|A list of identifiers (publication, bibliographic reference, global unique identifier, URI) of literature associated with the Record|"http://www.sciencemag.org/cgi/content/abstract/322/5899/261", "Christopher J. Conroy, Jennifer L. Neuwald. 2008. Phylogeographic study of the California vole, Microtus californicus Journal of Mammalogy, 89(3):755-767."|
-|occurrence notes|occurrenceRemarks|Comments or notes about the Occurrence, related to how the catalogued item was collected or observations from the field about the Record|"Isolated fragment from overhanging slab"|
+|media|associatedMedia|A list of of identifiers (publication, global unique identifier, URI) of media associated with the Record|http://arctos.database.museum/SpecimenImages/UAMObs/Mamm/2/P7291179.JPG|
+|references|associatedReferences|A list of identifiers (publication, bibliographic reference, global unique identifier, URI) of literature associated with the Record|Christopher J. Conroy, Jennifer L. Neuwald. 2008. Phylogeographic study of the California vole, Microtus californicus Journal of Mammalogy, 89(3):755-767|
+|occurrence notes|occurrenceRemarks|Comments or notes about the Occurrence, related to how the catalogued item was collected or observations from the field about the Record|Isolated fragment from overhanging slab|
 
 ###Event terms
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
 |field #|fieldNumber|An identifier given to the Event in the field|A.10.01|
 |date collected|verbatimEventDate|The date when the Record was collected, written as Month Day, Year or MM/DD/YYYY. (Month must be written first)|"January 1, 2016" "12/25/1995"|
-|field notes|fieldNotes|One of a) an indicator of the existence of, b) a reference to (publication, URI), or c) the text of notes taken in the field about the Event|"Notes available upon request"|
-|event notes|eventRemarks|Comments or notes about the Event, related to the collection process or some other event in time|"After recent rain events that exposed southern side of creek bed"|
+|field notes|fieldNotes|One of a) an indicator of the existence of, b) a reference to (publication, URI), or c) the text of notes taken in the field about the Event|Notes available upon request|
+|event notes|eventRemarks|Comments or notes about the Event, related to the collection process or some other event in time|After recent rain events that exposed southern side of creek bed|
 
 ###Location terms
 |FileMaker Field|Darwin Core Field|Definition|Example|
@@ -62,14 +62,14 @@ When using the ANSP database to enter data, refer to the FileMaker fields and ex
 |state|stateProvince|The name of the state or province unit in which the Location occurs|Pennsylvannia|
 |county|county|The name of the county or parish unit in which the Location occurs|Clinton County|
 |locality name|verbatimLocality|The specific description of the Location|"Durdham Down, near Bristol" "Big Bone Lick"|
-|location notes|locationRemarks|Comments or notes about the Location, related to a specific region|"Underwater since 2005"|
+|location notes|locationRemarks|Comments or notes about the Location, related to a specific region|Underwater since 2005|
 |decimal longitude|decimalLongitude|The geographic longitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -180 and 180, inclusive|-100.1010|
 |decimmal latitude|decimalLatitude|The geographic latitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -90 and 90, inclusive|10.1010|
 |datum|geodeticDatum|The ellipsoid, geodetic datum, or spatial reference system (SRS) upon which the geographic coordinates are based|"EPSG:4326" "WGS84" "NAD27"|
-|coordinates|verbatimCoordinates|The spatial coordinates of the Location in degrees, minutes, seconds. Written as DD°MM'SS" N, DD°MM'SS" E OR DD°MM.MM' N, DD°MM.MM' E|67°02'34"S, 07°32'29"E|
+|coordinates|verbatimCoordinates|The spatial coordinates of the Location in degrees, minutes, seconds. Written as DD°MM'SS"N, DD°MM'SS"E OR DD°MM.MM'N, DD°MM.MM'E|67°02'34"S, 07°32'29"W|
 |georeferenced by|georeferencedBy|A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parentheses on which the Record was georeferenced|John Smith (2000)|
-|georeferenced by|georeferencesDate|A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parentheses on which the Record was georeferenced|John Smith (2000)|
-|georeference notes|georeferenceRemarks|Notes or comments about the spatial description determination|"assumed distance by road (Hwy. 101)"|
+|georeferenced by|georeferencedDate|A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parentheses on which the Record was georeferenced|John Smith (2000)|
+|georeference notes|georeferenceRemarks|Notes or comments about the spatial description determination|assumed distance by road (Hwy. 101)|
 
 ###Geologic Context terms
 |FileMaker Field|Darwin Core Field|Definition|Example|
@@ -97,4 +97,4 @@ When using the ANSP database to enter data, refer to the FileMaker fields and ex
 |genus (subgenus) species|genus|The full scientific name of the genus, (subgenus) and species in which the Taxon is classified. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable|Tiktaalik roseae|
 |genus (subgenus) species|specificEpithet|The full scientific name of the genus, (subgenus) and species in which the Taxon is classified. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable|Tiktaalik roseae|
 |rank|verbatimTaxonRank|The taxonomic rank of the most specific name in the scientificName as it appears in the original record|"species" "order"|
-|taxon notes|taxonRemarks|Comments or notes about the taxon or name|"this name is a misspelling in common use"|
+|taxon notes|taxonRemarks|Comments or notes about the taxon or name|this name is a misspelling in common use|
