@@ -42,7 +42,7 @@ When using the ANSP database to enter data, refer to the FileMaker fields and ex
 |count|individualCount|The number of individuals represented present in the Record|"1" "10"|
 |preparation notes|preparations|A list of preparators and preservation methods for the Record|"John Smith, cast" "SEM thin section"|
 |disposition|disposition|The current state of a Record with respect to the collection at ANSP|"in collection" "voucher elsewhere" "duplicates elsewhere"|
-|media|associatedMedia|A list of of identifiers (publication, global unique identifier, URI) of media associated with the Record|http://arctos.database.museum/SpecimenImages/UAMObs/Mamm/2/P7291179.JPG|
+|media|associatedMedia|A list of of identifiers (publication, global unique identifier, URI) of media associated with the Record||
 |references|associatedReferences|A list of identifiers (publication, bibliographic reference, global unique identifier, URI) of literature associated with the Record|Christopher J. Conroy, Jennifer L. Neuwald. 2008. Phylogeographic study of the California vole, Microtus californicus Journal of Mammalogy, 89(3):755-767|
 |occurrence notes|occurrenceRemarks|Comments or notes about the Occurrence, related to how the catalogued item was collected or observations from the field about the Record|Isolated fragment from overhanging slab|
 
