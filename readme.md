@@ -5,7 +5,9 @@ Repository for ANSP Vertebrate Paleontology database. Intended for use by lab vo
 Tables are separated into catergories based on Darwin Core. Names that begin with dcterms: are terms managed by the Dublin Core Metadata Initiativem adapted by Darwin Core for biodiversity applications.
 
 When using the ANSP database to enter data, refer to the FileMaker fields and examples. These definitions have been agreed upon to represent all the data recorded in FileMaker. From within FileMaker there is a way to export the data into a new Darwin Core table that converts everything into the format required. This only works when data is entered correctly and as expected into FileMaker.
+
 -----
+
 The first column 'FileMaker' is the name of the column in FileMaker. Sometimes a term may be used more than once if there are multiple Darwin Core fields being represented, but it will only need to be entered into one column in FileMaker. "N/A" is used when there is a Darwin Core field without a corresponding column in FileMaker or multiple FileMaker field refers to one Darwin Core field.
 
 The second column 'Darwin Core Field' is the name of the matching fields used by the Darwin Core standards (http://rs.tdwg.org/dwc/terms/index.htm). This is important when the data is added to external projects like iDigBio (https://www.idigbio.org/) or larger databases within the Academy.
