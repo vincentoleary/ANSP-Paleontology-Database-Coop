@@ -18,6 +18,8 @@ The fourth and final column 'Example' provides examples of expected data for tha
 
 All definitions and examples were drawn from Darwin Core standards (http://rs.tdwg.org/dwc/terms/index.htm) and adapted for the specific needs of the Vertebrate Paleontology collection at the Academy of Natural Sciences.
 
+------
+
 ###Record-Level terms 
 
 |FileMaker Field|Darwin Core Field|Definition|Example|
