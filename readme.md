@@ -29,11 +29,11 @@ All definitions and examples were drawn from Darwin Core standards (http://rs.td
 |created by||The user account which created the Record (auotmatically generated)|abc123|
 |modified|dcterms:modified|The most recent date on which the Record was changed (auotmatically generated)|01/01/2016|
 |modified by||The user account which changed the Record (auotmatically generated)|abc123|
-|citation|dcterms:bibliographicCitation|A bibliographic reference for the resource as a statement indicating how this record should be cited (attributed) when used (auotmatically generated)|"Ctenomys sociabilis (MVZ 165861)" for a specimen|
+|citation|dcterms:bibliographicCitation|A bibliographic reference for the resource as a statement indicating how this record should be cited (attributed) when used (ANSP Catalog #)|"Ctenomys sociabilis (MVZ 165861)" for a specimen|
 |N/A|institutionCode|The name (or acronym) in use by the institution having custody of the object(s) or information referred to in the record|ANSP|
 |N/A|collectionCode|The name, acronym, coden, or initialism identifying the collection or data set from which the record was derived|Vertebrate Paleontology|
 |collection|datasetName|The name identifying the project or donation from which the Record was derived|"Donated by Dr. Smith, c. 1848" "Smith Collection"|
-|N/A|basisOfRecord|The specific nature of the data record|FossilSpecimen|
+|object|basisOfRecord|Will be a 'fossilspecimen' by default, other option is 'specimencast' if record is a cast only|"FossilSpecimen" "SpecimenCast"|
 |withhold|informationWithheld|Reason for witholding data from publication, ie. for privacy or environmental concerns|"Private field location" "Landowner permissions did not allow public sharing" "Rare specimen that should not be made public"|
 |other information||Any other information that is not captured in other fields for the Record||
 
@@ -42,7 +42,7 @@ All definitions and examples were drawn from Darwin Core standards (http://rs.td
 |---|---|---|---|
 |catalog ID|occurrenceID|A unique identifier for the Record (auotmatically generated)|IEANS0001|
 |catalog #|catalogNumber|An identifier for the Record within the data set or collection|"100.1" "10a" "1000"|
-|collectors|recordedBy|A list of names of people or groups who collected the original Record|John Smith|
+|collectors|recordedBy|A list of names of people or groups who collected the original Record|"John Smith" "Mercer and ANSP Field Crew"|
 |count|individualCount|The number of individuals represented present in the Record|"1" "10"|
 |preparation notes|preparations|A list of preparators and preservation methods for the Record|"John Smith, cast" "SEM thin section"|
 |disposition|disposition|The current state of a Record with respect to the collection at ANSP|"in collection" "voucher elsewhere" "duplicates elsewhere"|
@@ -95,7 +95,7 @@ All definitions and examples were drawn from Darwin Core standards (http://rs.td
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
 |N/A|scientificName|The full scientific name of the Taxon||
-|higher taxa|higherClassification|A list of taxa/clade ranks superior to order. Do not use punctuation to separate terms. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable|Mammalia|
+|higher taxa|higherClassification|A list of taxa/clade ranks superior to order. Do not use punctuation to separate terms. Do not use Animalia or Vertebrata, it is redundant. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable|Mammalia|
 |order (suborder)|order|The full scientific name of the order in which the Taxon is classified. Suborder can be listed in parentheses () if known. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable|Crocodylia|
 |family (subfamily)|family|The full scientific name of the family in which the Taxon is classified. Subfamily can be listed in parentheses () if known. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable |Erethizontidae|
 |genus (subgenus) species|genus|The full scientific name of the genus, (subgenus) and species in which the Taxon is classified. If the identification is uncertain, use term "cf." to describe a similar Taxon. Write 'Indet.' if the Taxon is indeterminable|Tiktaalik roseae|
