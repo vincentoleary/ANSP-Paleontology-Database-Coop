@@ -21,6 +21,7 @@ All definitions and examples were drawn from Darwin Core standards (http://rs.td
 ------
 
 ###Record-Level terms 
+Record refers to the existence of the specimen in a collection
 
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
@@ -29,19 +30,21 @@ All definitions and examples were drawn from Darwin Core standards (http://rs.td
 |created by||The user account which created the Record (auotmatically generated)|abc123|
 |modified|dcterms:modified|The most recent date on which the Record was changed (auotmatically generated)|01/01/2016|
 |modified by||The user account which changed the Record (auotmatically generated)|abc123|
-|citation|dcterms:bibliographicCitation|A bibliographic reference for the resource as a statement indicating how this record should be cited (attributed) when used (ANSP Catalog #)|"Ctenomys sociabilis (MVZ 165861)" for a specimen|
+|citation|dcterms:bibliographicCitation|A bibliographic reference for the resource as a statement indicating how this record should be cited (attributed) when used (Catalog UUID)|"Marmota monax (IEANS1000)" for a specimen|
 |N/A|institutionCode|The name (or acronym) in use by the institution having custody of the object(s) or information referred to in the record|ANSP|
 |N/A|collectionCode|The name, acronym, coden, or initialism identifying the collection or data set from which the record was derived|Vertebrate Paleontology|
 |collection|datasetName|The name identifying the project or donation from which the Record was derived|"Donated by Dr. Smith, c. 1848" "Smith Collection"|
-|object|basisOfRecord|Will be a 'fossilspecimen' by default, other option is 'specimencast' if record is a cast only|"FossilSpecimen" "SpecimenCast"|
-|withhold|informationWithheld|Reason for witholding data from publication, ie. for privacy or environmental concerns|"Private field location" "Landowner permissions did not allow public sharing" "Rare specimen that should not be made public"|
-|other information||Any other information that is not captured in other fields for the Record||
+|object|basisOfRecord|Defines is the record refers to a fossil object or only a cast, this field cannot be left blank|"FossilSpecimen" "SpecimenCast"|
+|withhold|N/A|Select "Yes" if the Record should not be shared publicly, this field cannot be left blank|"Yes" "No"|
+|other information|N/A|Any other information that is not captured in other fields for the Record, as well as any reason for witholding data from publication, ie. for privacy or environmental concerns|"Private field location" "Landowner permissions did not allow public sharing" "Rare specimen that should not be made public"|
 
 ###Occurrence terms
+Occurrence refers to the existence of the specimen at a particular place and time
+
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
-|catalog ID|occurrenceID|A unique identifier for the Record (auotmatically generated)|IEANS0001|
-|catalog #|catalogNumber|An identifier for the Record within the data set or collection|"100.1" "10a" "1000"|
+|catalog UUID|occurrenceID|A unique identifier for the Record (auotmatically generated)|IEANS0001|
+|ANSP catalog number|catalogNumber|An identifier for the Record within the data set or collection|"100.1" "10a" "1000"|
 |collectors|recordedBy|A list of names of people or groups who collected the original Record|"John Smith" "Mercer and ANSP Field Crew"|
 |count|individualCount|The number of individuals represented present in the Record|"1" "10"|
 |preparation notes|preparations|A list of preparators and preservation methods for the Record|"John Smith, cast" "SEM thin section"|
@@ -51,6 +54,8 @@ All definitions and examples were drawn from Darwin Core standards (http://rs.td
 |occurrence notes|occurrenceRemarks|Comments or notes about the Occurrence, related to how the catalogued item was collected or observations from the field about the Record|Isolated fragment from overhanging slab|
 
 ###Event terms
+Event refers to an action (ie. specimen collection process) at a particular location and time
+
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
 |field #|fieldNumber|An identifier given to the Event in the field|A.10.01|
@@ -59,6 +64,8 @@ All definitions and examples were drawn from Darwin Core standards (http://rs.td
 |event notes|eventRemarks|Comments or notes about the Event, related to the collection process or some other event in time|After recent rain events that exposed southern side of creek bed|
 
 ###Location terms
+Location is a particular spatial region or named place
+
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
 |N/A|continent|The name of the continent in which the Location occurs|North America|
@@ -76,12 +83,16 @@ All definitions and examples were drawn from Darwin Core standards (http://rs.td
 |georeference notes|georeferenceRemarks|Notes or comments about the spatial description determination|assumed distance by road (Hwy. 101)|
 
 ###Geologic Context terms
+Geologic context is information that qualifies a particular region or place by geologic terms
+
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
 |geologic age|earliestAgeOrLowestAge|The full name of the geochronologic age or chronostratigraphic stage attributable to the stratigraphic horizon from which the cataloged item was collected|Late Cretaceous (Campanian)|
 |lithologic notes|lithostratigraphicTerms|The combination of all litho-stratigraphic names for the rock from which the cataloged item was collected|Lower Hornerstown Formation|
 
 ###Identification terms
+Identification is the specific taxonomic determination
+
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
 |NULL|identificationQualifier|A brief phrase ("cf.") to express the determiner's doubts about the identification|"cf.  A. oxyrhynchus" "Teleopternus orientalis = Holomeniscus orientalis" "Adocus sp."|
@@ -92,6 +103,8 @@ All definitions and examples were drawn from Darwin Core standards (http://rs.td
 |identification notes|identificationRemarks|Comments or notes about the Identification|Distinguished between Anthus correndera and Anthus hellmayri based on the comparative lengths of the uñas|
 
 ###Taxon terms
+Taxon refers to a group of organisms considered to be a homogeneous unit
+
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
 |N/A|scientificName|The full scientific name of the Taxon||
