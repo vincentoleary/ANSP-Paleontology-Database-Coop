@@ -6,4 +6,6 @@ The file database.md is a description of our database schema in Filemaker and ho
 
 The file dig_workflows.md will be a description for our digitization workflows and how we are sharing our collections online through resources like iDigBio and PaleoBioDB
 
+The vp_website folder contains the files for our website, built from an HTML template on http://www.tooplate.com/ 
+
 Other files for our website and UUID system will be added as well. Check back soon!
