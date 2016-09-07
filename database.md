@@ -43,8 +43,9 @@ Occurrence refers to the existence of the specimen at a particular place and tim
 
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
-|catalog UUID|occurrenceID|A unique identifier for the Record (auotmatically generated)|IEANS0001|
-|ANSP catalog number|catalogNumber|An identifier for the Record within the data set or collection|"100.1" "10a" "1000"|
+|UUID|occurrenceID|A unique identifier for the Record (auotmatically generated)||
+|catalog ID|catalogNumber|A unique identifier for the Record (auotmatically generated)|IEANS0001|
+|ANSP catalog number|otherCatalogNumber|An identifier for the Record within the data set or collection|"100.1" "10a" "1000"|
 |collectors|recordedBy|A list of names of people or groups who collected the original Record|"John Smith" "Mercer and ANSP Field Crew"|
 |count|individualCount|The number of individuals represented present in the Record|"1" "10"|
 |preparation notes|preparations|A list of preparators and preservation methods for the Record|"John Smith, cast" "SEM thin section"|
@@ -76,8 +77,8 @@ Location is a particular spatial region or named place
 |location notes|locationRemarks|Comments or notes about the Location, related to a specific region|Underwater since 2005|
 |decimal longitude|decimalLongitude|The geographic longitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -180 and 180, inclusive|-100.1010|
 |decimmal latitude|decimalLatitude|The geographic latitude (in decimal degrees, using the spatial reference system given in datum field) of the geographic center of a Location. Legal values lie between -90 and 90, inclusive|10.1010|
-|datum|geodeticDatum|The ellipsoid, geodetic datum, or spatial reference system (SRS) upon which the geographic coordinates are based|"EPSG:4326" "WGS84" "NAD27"|
-|coordinates|verbatimCoordinates|The spatial coordinates of the Location in degrees, minutes, seconds. Written as DD°MM'SS"N, DD°MM'SS"E OR DD°MM.MM'N, DD°MM.MM'E|67°02'34"S, 07°32'29"W|
+|datum|geodeticDatum|The ellipsoid, geodetic datum, or spatial reference system (SRS) upon which the geographic coordinates are based, usually will be WGS84|"EPSG:4326" "WGS84" "NAD27"|
+|coordinates|verbatimCoordinates|The spatial coordinates of the Location in degrees, minutes, seconds.|67°02'34"S, 07°32'29"W|
 |georeferenced by|georeferencedBy|A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parentheses on which the Record was georeferenced|John Smith (2000)|
 |georeferenced by|georeferencedDate|A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parentheses on which the Record was georeferenced|John Smith (2000)|
 |georeference notes|georeferenceRemarks|Notes or comments about the spatial description determination|assumed distance by road (Hwy. 101)|
@@ -95,7 +96,7 @@ Identification is the specific taxonomic determination
 
 |FileMaker Field|Darwin Core Field|Definition|Example|
 |---|---|---|---|
-|NULL|identificationQualifier|A brief phrase ("cf.") to express the determiner's doubts about the identification|"cf.  A. oxyrhynchus" "Teleopternus orientalis = Holomeniscus orientalis" "Adocus sp."|
+|NULL|identificationQualifier|A brief phrase ("cf.") to express the determiner's doubts about the identification|"cf.  A. oxyrhynchus" "Teleopternus orientalis = Holomeniscus orientalis" "Adocus sp." "Indet."|
 |type status|typeStatus|Nomenclatural types (type status, typified scientific name, publication) applied to the Record|"holotype" "holotype of Ctenomys sociabilis. Pearson O. P., and M. I. Christie. 1985. Historia Natural, 5(37):388"|
 |identification by|identifiedBy|A list of names of people or groups who assigned the Taxon to the Record. This is followed by the year (if known) in parentheses on which the Record was identified as representing the Taxon|John Smith (2000)|
 |identification by|dateIdentified|A list of names of people or groups who assigned the Taxon to the Record. This is followed by the year (if known) in parentheses on which the Record was identified as representing the Taxon|John Smith (2000)|
