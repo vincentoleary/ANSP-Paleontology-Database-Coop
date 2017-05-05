@@ -1,4 +1,5 @@
-#Darwin Core Standards for Paleontology
+Darwin Core Standards for Paleontology
+======================================
 
 This table describes all the fields currently used in the database. It is a reference for entering data correctly and using the correct vocabulary or structure each fields requires. Controlled vocabulary is very important to make sure that records are acurrate and can be used for other programs. Data should be entered as complete as possible for every field. 
 
@@ -20,7 +21,8 @@ All definitions and examples were drawn from Darwin Core standards and adapted f
 
 ------
 
-###Record-Level terms 
+### Record-Level terms 
+
 Record refers to the existence of the specimen in a collection
 
 |FileMaker Field|Darwin Core Field|Definition|Example|
@@ -38,7 +40,8 @@ Record refers to the existence of the specimen in a collection
 |withhold|N/A|Select "Yes" if the Record should not be shared publicly, this field cannot be left blank|"Yes" "No"|
 |other information|N/A|Any other information that is not captured in other fields for the Record, as well as any reason for witholding data from publication, ie. for privacy or environmental concerns|"Private field location" "Landowner permissions did not allow public sharing" "Rare specimen that should not be made public"|
 
-###Occurrence terms
+### Occurrence terms
+
 Occurrence refers to the existence of the specimen at a particular place and time
 
 |FileMaker Field|Darwin Core Field|Definition|Example|
@@ -54,7 +57,8 @@ Occurrence refers to the existence of the specimen at a particular place and tim
 |references|associatedReferences|A list of identifiers (publication, bibliographic reference, global unique identifier, URI) of literature associated with the Record|Christopher J. Conroy, Jennifer L. Neuwald. 2008. Phylogeographic study of the California vole, Microtus californicus Journal of Mammalogy, 89(3):755-767|
 |occurrence notes|occurrenceRemarks|Comments or notes about the Occurrence, related to how the catalogued item was collected or observations from the field about the Record|Isolated fragment from overhanging slab|
 
-###Event terms
+### Event terms
+
 Event refers to an action (ie. specimen collection process) at a particular location and time
 
 |FileMaker Field|Darwin Core Field|Definition|Example|
@@ -64,7 +68,8 @@ Event refers to an action (ie. specimen collection process) at a particular loca
 |field notes|fieldNotes|One of a) an indicator of the existence of, b) a reference to (publication, URI), or c) the text of notes taken in the field about the Event|Notes available upon request|
 |event notes|eventRemarks|Comments or notes about the Event, related to the collection process or some other event in time|After recent rain events that exposed southern side of creek bed|
 
-###Location terms
+### Location terms
+
 Location is a particular spatial region or named place
 
 |FileMaker Field|Darwin Core Field|Definition|Example|
@@ -83,7 +88,8 @@ Location is a particular spatial region or named place
 |georeferenced by|georeferencedDate|A list of names of people or groups who determined the georeference (longitude and latitude) for the Record. This is followed by the year (if known) in parentheses on which the Record was georeferenced|John Smith (2000)|
 |georeference notes|georeferenceRemarks|Notes or comments about the spatial description determination|assumed distance by road (Hwy. 101)|
 
-###Geologic Context terms
+### Geologic Context terms
+
 Geologic context is information that qualifies a particular region or place by geologic terms
 
 |FileMaker Field|Darwin Core Field|Definition|Example|
@@ -91,7 +97,8 @@ Geologic context is information that qualifies a particular region or place by g
 |geologic age|earliestAgeOrLowestAge|The full name of the geochronologic age or chronostratigraphic stage attributable to the stratigraphic horizon from which the cataloged item was collected|Late Cretaceous (Campanian)|
 |lithologic notes|lithostratigraphicTerms|The combination of all litho-stratigraphic names for the rock from which the cataloged item was collected|Lower Hornerstown Formation|
 
-###Identification terms
+### Identification terms
+
 Identification is the specific taxonomic determination
 
 |FileMaker Field|Darwin Core Field|Definition|Example|
@@ -103,7 +110,8 @@ Identification is the specific taxonomic determination
 |element|identificationRemarks|The combination of all morphological terms for the Record identification|partial rt. dentary in matrix w. p/3, p/4, M/1|
 |identification notes|identificationRemarks|Comments or notes about the Identification|Distinguished between Anthus correndera and Anthus hellmayri based on the comparative lengths of the uñas|
 
-###Taxon terms
+### Taxon terms
+
 Taxon refers to a group of organisms considered to be a homogeneous unit
 
 |FileMaker Field|Darwin Core Field|Definition|Example|
