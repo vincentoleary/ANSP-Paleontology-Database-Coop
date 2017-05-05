@@ -1,4 +1,4 @@
-Thomas Jefferson Fossil Collection
+**Thomas Jefferson Fossil Collection**
 ==================================
 
 If you were a guest at Thomas Jefferson's home at Monticello, you could see things that revealed the intellectual range of this remarkable Founding Father. The house, designed by Jefferson himself, was perhaps the most beautiful building in the new republic and inside it was the nation's greatest library. Throughout the building's public spaces you would see images and statues of major politicians and philosophers. And in the entry hall more a museum than anything else you could examine a variety of natural history and ethnographic specimens, including some from the Lewis and Clark Expedition. Among these displays were fossils of an impressive giant, the American mastodon.
@@ -13,17 +13,26 @@ Some of the fruits of Jefferson's paleontology became part of the collections at
 
 Welcome to this online exhibit. Examine the fossils and explore the science and history surrounding this collection:
 
-+ The [American Mastodon](#history-of-the-discovery-of-the-mastodon) is the most important species in this collection. The identity and nature of this mysterious creature captured the interest and imagination of people in both Europe and North America.
-+ The [Giant Claw, or Megalonyx](#history-of-the-discovery-of-the-ground-sloth), was the subject of the first scientific papers in American paleontology.
-+ Six [Other Fossil animals](#other-fossils) are also part of this collection.
-+ Finally, there are [Other Pages](#other-pages) dealing with important naturalists, scientists and ideas from the Age of Jefferson.
+> + The [**American Mastodon**](#history-of-the-discovery-of-the-mastodon) is the most important species in this collection. The identity and nature of this mysterious creature captured the interest and imagination of people in both Europe and North America. Learn more about the history of its discovery.
+
+> + The [**Giant Claw, or *Megalonyx***](#history-of-the-discovery-of-the-ground-sloth), was the subject of the first scientific papers in American paleontology and remains an important specimen in the collections today.
+
+> + [**Other fossil animals**](#other-fossils) that are also part of Jefferson's collection.
+
+> + [**Other pages**](#other-pages) has information from other websites about important naturalists, scientists, and ideas from the Age of Jefferson.
+
+> + [**Exhibit credits**](#online-exhibit-credits)
 
 ![Mammut tibia](http://web.archive.org/web/20110522092507im_/http://www.ansp.org/museum/jefferson/fossils/mammut_tibia_home_510.jpg)
 
 ---------------------------------------
 
 American Mastodon *(Mammut americanum)*
--------------------------------------
+======================================
+
+([Back to top](#thomas-jefferson-fossil-collection))  
+([Back to mastodons](#american-mastodon-mammut-americanum))
+
 
 The American mastodon (Mammut americanum) is a late Pliocene/Pleistocene relative of modern elephants whose fossils have been found only in North America. The discovery of the mastodon has played a central role to the emergence of the science of paleontology and the national identity of the young United States.
 
@@ -31,22 +40,24 @@ First discovered in 1705, this mysterious giant would fuel the imagination and c
 
 ![mastodon](http://web.archive.org/web/20110906010637im_/http://www.ansp.org:80/museum/jefferson/images/sil-mastodon.gif)
 
-### History of the Discovery of the Mastodon
+## History of the Discovery of the Mastodon
 
-> 1. First Reports
-> 2. Enter the French
-> 3. Enter the British
-> 4. Enter the Americans
-> 5. Jefferson's Notes
-> 6. The Search Heats Up
-> 7. Peale's "Mammoth"
-> 8. Fossils in the White House
-> 9. Meanwhile, In Europe...
-> 10. Epilogue
-> + More about Mastodons
-> + Mastodon Fossils (coming soon!)
+> 1. [First Reports](#first-reports)
+> 2. [Enter the French](#enter-the-french)
+> 3. [Enter the British](#enter-the-british)
+> 4. [Enter the Americans](#enter-the-americans)
+> 5. [Jefferson's Notes](#jeffersons-notes)
+> 6. [The Search Heats Up](#the-search-heats-up)
+> 7. [Peale's "Mammoth"](#peales-mammoth)
+> 8. [Fossils in the White House](#fossils-in-the-white-house)
+> 9. [Meanwhile, In Europe...](#meanwhile-in-europe)
+> 10. [Epilogue](#epilogue)
+> 11. [More about Mastodons](#more-about-mastodons-mammut-americanum)
+> 12. Mastodon Fossils (coming soon!)
 
-#### First Reports
+## First Reports
+
+([Back to mastodons](#american-mastodon-mammut-americanum))
 
 ![mastodon molar](http://web.archive.org/web/20111017220053im_/http://www.ansp.org/museum/jefferson/illust/mammut_blumenbach.jpg)
 
@@ -60,7 +71,9 @@ Giants were popular in the folklore of many cultures. Indeed, Edward Taylor invo
 + Cohen, C. 2002. The Fate of the Mammoth: Fossils, Myths and History. Translated by William Rodarmor. Chicago: University of Chicago Press. Originally published as Le Destin du Mammouth. 1994. Editions du Seuil.
 + Semonin, P. 2002. American Monster: How the nation's first prehistoric creature became a symbol of national identity. New York & London: New York University Press.
 
-#### Enter the French
+## Enter the French
+
+([Back to mastodons](#american-mastodon-mammut-americanum))
 
 ![french map](http://web.archive.org/web/20111017220056im_/http://www.ansp.org/museum/jefferson/images/NA-1739.jpg)
 
@@ -101,7 +114,9 @@ The typical explanation for this anomalous distribution was that their remains w
 + The extinction of animals was inconceivable for most European scientists of the 18th century. It ran counter to firmly held beliefs by both Christian and Deists of the perfect creation. Moreover, the fossils of both the Siberian mammoth and the "Ohio animal" were only a few thousand years old. Unlike many older fossils, which are commonly embedded in hard rock, these fossils were typically found in unconsolidated surficial deposits (e.g., wetlands muck, soil or gravel) or even ice. (See Fossils and Extinction.)
 + George Louis Leclerc, comte de Buffon (1707-1788) is widely regarded as the greatest naturalist or biologist of the 17th century and his 36 volume Histoire naturelle was the most influential natural history publication of the Enlightenment. In addition to this epic work, Buffon is best known for his innovative Des époques de la nature (Epochs of Nature) and his Theory of American Degeneracy. This last theory elicited a spirited rebuttal by Thomas Jefferson.
 
-#### Enter the British
+## Enter the British
+
+([Back to mastodons](#american-mastodon-mammut-americanum))
 
 ![british](http://web.archive.org/web/20111017220101im_/http://www.ansp.org/museum/jefferson/images/NA-1766.jpg)
 
@@ -128,7 +143,9 @@ The Royal Society was presented with another interpretation of Croghan's fossils
 + During his 1766 expedition, George Croghan was accompanied by George Morgan, a partner of the Philadelphia trading firm company that financed Croghans endeavor. Morgan returned from Big Bone Lick with his own fossils. These fossils were later turned over to Morgans brother John. Years later, they would come to the attention of Christian Friedrich Michaelis and Charles Willson Peale and spark American interest in the incognitum. (See Part 4 - Enter the Americans.) (back)
 + The French anatomist Louis-Jean-Marie Daubenton published a systematic account of the "animal du l'Ohio" in 1756. Unlike Hunter, he concluded that the animal was an elephant, although he attributed the teeth to another animal. (See Part 2 - Enter the French.)
 
-#### Enter the Americans
+## Enter the Americans
+
+([Back to mastodons](#american-mastodon-mammut-americanum))
 
 ![Americans](http://web.archive.org/web/20111017220104im_/http://www.ansp.org/museum/jefferson/images/NA-1783.jpg)
 
@@ -153,7 +170,9 @@ John Morgan received the collection from his brother, who had accompanied George
 + Charles Willson Peale would later relate that his experiences while illustrating Morgan's fossils inspired him to found his American Museum. In particular, his brother-in-law would exclaim that he "would have gone 20 miles to behold such a collection". (See Peale's Museum.)
 + Christian Friedrich Michaelis published an article on the incognitum two years after he return from America. His copies of Peale's illustrations proved influential to other interested Europeans, including Petrus Camper and Georges Cuvier. (See Part 9 - Meanwhile, in Europe.) John Morgan ultimately sold his Big Bone Lick collection to Petrus Camper in 1788.
 
-#### Jefferson's Notes
+## Jefferson's Notes
+
+([Back to mastodons](#american-mastodon-mammut-americanum))
 
 ![Jefferson](http://web.archive.org/web/20111017220107im_/http://www.ansp.org/museum/jefferson/images/TJ-Peale-1791.jpg)
 
@@ -189,7 +208,9 @@ Jefferson believed that the "Mammoth" was probably a carnivore. This opinion, in
 + Portrait of Thomas Jefferson by Charles Willson Peale, 1791.
 Image courtesy of the [Independence Historical National Park](www.nps.gov/inde/).
 
-#### The Search Heats Up
+## The Search Heats Up
+
+([Back to mastodons](#american-mastodon-mammut-americanum))
 
 ![mammoth femur](http://web.archive.org/web/20111017220109im_/http://www.ansp.org/museum/jefferson/illust/columbian-femur.jpg)
 
@@ -218,7 +239,9 @@ Perhaps the most significant element of George Turner's talk was his call for th
 + The image of the mastodon femur (thigh bone) was first published in a 1786 edition of Columbian Magazine, a popular Philadelphian journal.
 + Although the "Megalonyx" fossils were first believed to have come from a giant tiger, it was soon realized that they were from a new type of ground sloth. See History of the Great Claw for more information.
 
-#### Peale's "Mammoth"
+## Peale's "Mammoth"
+
+([Back to mastodons](#american-mastodon-mammut-americanum))
 
 ![Peale](http://web.archive.org/web/20111017220111im_/http://www.ansp.org/museum/jefferson/images/peale-portrait-PAFA.jpg)
 
@@ -272,7 +295,9 @@ As the exhibit languished in London, Rembrandt Peal hoped that his fortunes woul
 
 + ["The Artist in His Museum" by Charles Willson Peale 1822. Courtesy of the Pennslvania Academy of the Fine Arts, Philadelphia. Gift of Mrs. Sarah Harrison (The Joseph Harrison, Jr. Collection)](www.PAFA.org). Go to Peales American Museum to view a full view of this painting.
 
-#### Fossils in the White House
+## Fossils in the White House
+
+([Back to mastodons](#american-mastodon-mammut-americanum))
 
 ![thomas](http://web.archive.org/web/20111017220117im_/http://www.ansp.org/museum/jefferson/images/TJ-ansp.jpg)
 ![clark](http://web.archive.org/web/20111017220117im_/http://www.ansp.org/museum/jefferson/images/clark-peale.jpg)
@@ -316,7 +341,9 @@ The first and only successful shipment from Clark arrived at the White House in 
 
 + After a portrait of William Clark by Charles Willson Peale, 1810. Image courtesy of the [Independence Historical National Park, Philadelphia.](www.nps.gov/inde/)
 
-#### Meanwhile, in Europe...
+## Meanwhile, in Europe...
+
+([Back to mastodons](#american-mastodon-mammut-americanum))
 
 ![femur](http://web.archive.org/web/20111017220120im_/http://www.ansp.org/museum/jefferson/illust/mammut_cuvier-femur.jpg)
 ![molar tooth](http://web.archive.org/web/20111017220120im_/http://www.ansp.org/museum/jefferson/illust/mammut_cuvier-molar-1.jpg)
@@ -359,7 +386,9 @@ Cuvier's 1806 paper on the mastodon was published before fossils from the Clark-
 + The British naturalist Robert Kerr named the American incognitum Elephas americanus in 1792. In 1799, Johann Friedrich Blumenbach named the Ohio animal Mammut ohioticum; Blumenbach also named the Siberian mammoth as Elephas primigenius. Cuvier's name, Mastodon giganteus, was widely used by paleontologists well into the 20th century.
 + The Clark-Jefferson Expedition recovered numerous mastodon fossils from Big Bone Lick in 1807. Upon their arrival in Washington, DC, the fossils were partitioned into three groups. The first was added to the collection at the American Philosophical Society. The second was added to Jefferson's personal collection. The third was donated to the Natural History Museum in Paris. The shipment to Paris arrived in September, 1808.
 
-#### Epilogue
+## Epilogue
+
+([Back to mastodons](#american-mastodon-mammut-americanum))
 
 ![warren mastadon](http://web.archive.org/web/20111017220123im_/http://www.ansp.org/museum/jefferson/illust/mammut_warren.jpg)
 
@@ -401,7 +430,9 @@ Fossils of the American mastodon have been found throughout the United States as
 + Rice, H.C. Jr. 1951. "Jefferson's Gift of Fossils to the Museum of Natural History in Paris." Proceedings of the American Philsophical Society. 95: 599-610.
 + Semonin, P. 2002. American Monster: How the nation's first prehistoric creature became a symbol of national identity. New York & London: New York University Press.
 
-#### More about Mastadons *(Mammut americanum)*
+## More about Mastadons *(Mammut americanum)*
+
+([Back to mastodons](#american-mastodon-mammut-americanum))
 
 ![ventral view](http://web.archive.org/web/20111017220126im_/http://www.ansp.org/museum/jefferson/illust/mammut_godman_ventral.jpg)
 ![molar](http://web.archive.org/web/20111017220126im_/http://www.ansp.org/museum/jefferson/illust/mammut_borsoni_Buffon.jpg)
@@ -457,26 +488,173 @@ The proboscideans were a diverse and successful group of large mammals. Currentl
 ---------------------------------------
 
 Great Claw *(Megalonyx jeffersonii)*
--------------------------------------
+====================================
 
-### History of the Discovery of the Ground Sloth
+([Back to top](#thomas-jefferson-fossil-collection))  
+([Back to ground sloths](#great-claw-megalonyx-jeffersonii))  
 
-> 1. The Great Cat
-> 2. The Ground Sloth
-> + More about Ground Sloths
-> + Megalonyx Fossils (coming soon!)
+Next to the American Mastodon, Jefferson's Ground Sloth is the most important fossil animal represented in the Thomas Jefferson Fossil Collection. This unusual animal was the subject of the first and second scientific articles on fossils ever published in the United States.
 
-#### Part 1: The Great Cat
+![ground sloth](http://web.archive.org/web/20111017202856im_/http://www.ansp.org/museum/jefferson/images/sil-giant_claw.gif)
 
-#### Part 2: The Ground Sloth
+## History of the Discovery of the Ground Sloth
 
-#### More about Ground Sloths
+> 1. [The Great Cat](#the-great-cat)
+> 2. [The Ground Sloth](#the-ground-sloth)
+> 3. [More about Ground Sloths](#more-about-ground-sloths)
+> 4. Megalonyx Fossils (coming soon!)
 
+## Part 1: The Great Cat
 
+([Back to ground sloths](#great-claw-megalonyx-jeffersonii))  
+
+![digit](http://web.archive.org/web/20111017220214im_/http://www.ansp.org/museum/jefferson/illust/megalonyx_claw_510.jpg)
+
+In March of 1797, Jefferson arrived in Philadelphia to attend the inauguration of John Adams as president and himself as vice president. However, his heart and mind may very well been more invested in a talk he would soon give at the American Philosophical Society. He had just been elected president of the society and almost certainly preferred the company of its members to the cabinet of his political rival, Mr. Adams.
+
+![jeff](http://web.archive.org/web/20111017220214im_/http://www.ansp.org/museum/jefferson/images/TJ-LOC-1.jpg)
+
+The subject of Jefferson' s talk before the society was a collection of remarkable bones he received from a cave in what is now West Virginia. The bones were discovered while workmen were mining saltpeter (sodium nitrate) from the cave floor. Many of the bones had been taken by locals as souvenirs, but a few of them were salvaged by John Stewart and sent to his friend at Monticello.
+
+At the talk on March 10, Jefferson described the bones, which consisted of a fragment of the upper arm, the two bones of the lower arm and parts of the hand. Menacing claws at the end of each finger, prompting Jefferson to name the animal "Megalonyx" or "Great-Claw". He concluded that these fossils belonged to a large cat such as a lion or tiger. But they were too large to belong to any known cat. Using the anatomical account of the African lion by the French anatomist Daubenton for comparison, Jefferson estimated that the Megalonyx weighed more than three times the weight of the lion. He concluded:
+
+>"Let us say then, what we may safely say, that he was more than three times as large as the lion: that he stood as pre-eminently at the head of the column of clawed animals as the mammoth stood at that of the elephant, rhinoceros and hippopotamus: and than he may have been as formidable an antagonist to the mammoth as the lion to the elephant."
+
+![radius](http://web.archive.org/web/20111017220214im_/http://www.ansp.org/museum/jefferson/illust/megalonux_godman_radius_uln.jpg)
+
+Although the Comte de Buffon had been dead for almost a decade, Jefferson was apparently still bothered by his theory of American Degeneracy. The possibility of a giant cat that dwarfed the Old World lion combined with a "Mammoth" (American mastodon) that dwarfed the Old World elephant may have proved irresistible in his longstanding effort to discredit the theory.
+
+Later in his presentation Jefferson argued that the Megalonyx, as well as the "Mammoth" were probably still alive. A couple of his arguments were anecdotal: he related a few accounts of woodsmen being terrorized by a large cat-like animal and a report on a Native American rock drawing that resembles a cat. Three other arguments, however, were more substantial. The first is the philosophical objection that extinction belies the perfection of the Creation. The second is that these giant predators would have to be very rare and thus unlikely to have been familiar. Otherwise. they would "have ultimately extinguished after eating out their pasture." The third argument states that the vastness of wilderness of North America cast doubts on any claim that the animal was extinct:
+
+>"In the present interior of our continent there is surely space and range enough for elephants and lions, if in that climate they could subsist; and for the mammoth and megalonyxes who may subsist there. Our entire ignorance of the immense country to the West and North-West, and of its contents, does not authorise us so say what is does not contain."
+
+**Webpages:**
+
+[American Philosophical Society](www.amphilsoc.org)
+
+**Print Resources:**
+
++ Bedini, S.A. 1985. "Thomas Jefferson and American Vertebrate Paleontology." Virginia Division of Mineral Resources Publication 61. Charlottesville. 26 pp.
++ Jefferson, Thomas. 1799. "A Memoir of the Discovery of certain Bone of a Quadruped of the Clawed Kind in the Western Parts of Virginia." Transactions of the American Philosophical Society, Vol. 4, No. 30, pp. 246-260.
++ Semonin, P. 2002. American Monster: How the nation's first prehistoric creature became a symbol of national identity. New York & London: New York University Press.
+
+*Notes:*
+
++ President John Adams was a personal friend of Thomas Jefferson, but ideological differences and party politics soon drove a wedge between the two. Adams was a Federalist, although he was considerably more moderate than most of his cabinet. Jefferson, who helped found the Democratic-Republican party, was Adams' opponent during the hotly contested 1796 election. The spirit at the inauguration was bipartisan and conciliatory, but Jefferson was soon excluded from any real participation in the administration.
++ Comte de Buffon was the most influential naturalist of the 18th century. In 1766, he published his Theory of American Degeneracy, which stated that an adverse climate in the New World inhibited the development of native quadrupeds (an archaic classification that includes most mammals) and resulted in the degeneration of those transplanted from the Old World. Buffon extended this effect to Native Americans and some of his disciples extended it to include transplanted Europeans as well. Naturally, these transplants took offense and challenged the theory. Thomas Jefferson was the most prominent of these critics. See American Degeneracy for more information
++ Jefferson, a Deist, believed in the perfection of creation and was resistant to the idea that any animal could become extinct. See Fossils and Extinction for more information.
+
+*Image Credits:*
+
++ Wistar, Caspar. 1799. "A description of the Bones deposited by the President, in the Museum of the Society, and represented in the annexed plates." Transactions of the American Philosophical Society, Vol. 4, No. 71, pp. 526-531. (This digit is a detail of an engraving plate presented in Wistar (1799). A reproduction of the plate is presented in the Megalonyx fossil gallery.)
++ Thomas Jefferson, date and publisher unknown. Library of Congress, Prints and Photographs Division [icufaw apc0005]
++ Godman, John D. 1826. American Natural History. Philadelphia: Carey and Lea.
+
+## Part 2: The Ground Sloth
+
+([Back to ground sloths](#great-claw-megalonyx-jeffersonii))  
+
+An unexpected thing happened to Jefferson before he was to present the talk on Megalonyx (=Great Claw). He had been browsing a Philadelphia bookstore when he chanced upon an article in the British publication Monthly Magazine. It contained a short abstract and illustration based on a 1796 publication by Georges Cuvier on a giant, clawed fossil from Paraguay. The fossil, which was essentially a complete skeleton, belonged to an unknown animal that was clearly related to the South American tree sloths. Cuvier had named this creature Megatherium.
+
+Confronted with the possibility that his "lion" may in fact be a relative of the sloth, Jefferson hastily appended a postscript to his talk. He acknowledged that Megalonyx could, in fact, be Megatherium . On the other hand, Jefferson was skeptical that the two were identical. He remarked that the magazine article's illustration "is not so done as to be relied on, and the account is only an abstract". Moreover, he commented, "having nothing of our animal but the leg and foot bones, we have few points for a comparison between them." Jefferson acknowledged that the limb bones resembled each other but he still reserved judgment. After all, Cuvier's identification of Megatherium as a relative of the sloth was based primarily on its teeth. Jefferson concluded:
+
+>"But to solve satisfactorily the question of identity, the discovery of fore-teeth, or of a jaw bone shewing it had, or had not, such teeth, must be waited for, and hoped with patience. I may be better in the mean time, to keep up the difference of name."
+
+![wistar](http://web.archive.org/web/20111017220219im_/http://www.ansp.org/museum/jefferson/images/Wistar-si.jpg)
+
+Jefferson's 1797 talk on the Great-Claw was published in the Transactions of the American Philosophical Society in 1799 (Volume 4). Later in that same volume, Caspar Wistar wrote about the Megalonyx bones Jefferson deposited at the society. Wistar, a physician by training and an excellent anatomist, provided detailed descriptions and illustrations of the fossils. He also concluded that the bones did not belong to a cat. Instead, he noted that they were similar in form to those of "bradypus" [Bradypus], the three-toed sloth, but they were many times larger. Wistar considered the illustration and short abstract of the 1796 Monthly Magazine article to be insufficient for a definitive conclusion as to whether Megatherium and Megalonyx were identical. On the other hand, if one accepted the magazine's illustration as reliable, then, Wistar concluded, Megalonyx and Megatherium must be two different species.
+
+Jefferson abandoned his interpretation of Megalonyx as a giant cat sometime after he presented his talk at the American Philosophical Society. Instead, he concluded that it was probably identical to Cuvier's Megatherium. Nevertheless, he did not abandon his belief that the animal was still alive. In a 1803 letter to the French naturalist Bernard Lacépède, Jefferson wrote:
+
+It is not improbable that this voyage of discovery [the Lewis and Clark expedition] will procure further information of the Mammoth [mastodon], & of the Megatherium [Megalonyx].
+
+In a 1804 memoir on ground sloths Georges Cuvier concluded that Jefferon's animal and Megatherium were not identical and that both animals were now extinct. The French naturalist retained Jefferson's name for the animal, Megalonyx. In 1822, another French anatomist, Anselme Demarest, formerly described the fossil and named it Megalonyx jeffersonii in honor of the celebrated American. Joseph Leidy provided a detailed description of this ground sloth from nearly complete material in 1855. (See Leidy on Extinct Ground Sloths).
+
+Jefferson's Megalonyx memoir is arguably the first American publication in paleontology. It was also the first and only paleontology paper written by Jefferson. Thereafter he willingly deferred to Caspar Wistar, whom Jefferson recognized as eminently more qualified. In 1807, Jefferson then president of the United States requested Wistar's expertise in evaluating a roomful of fossils collected by William Clark at Big Bone Lick.
+
+![more radius](http://web.archive.org/web/20111017220219im_/http://www.ansp.org/museum/jefferson/illust/megalonyx_leidy-arm_510.jpg)
+
+**Print Resources:**
+
++ Bedini, S.A. 1985. Thomas Jefferson and American Vertebrate Paleontology. Virginia Division of Mineral Resources Publication 61. Charlottesville. 26 pp.
++ Buffon, Georges Louis LeClerc, comte de. 1749-1788. Histoire naturelle, générale et particulière. Paris: Imprimeries royale.
++ Cuvier, Geoges. 1796. "Notice sur le squelette d'une très-grande espèce de quadrupède onconnue jusqu'à présent, trouvé au Paraguay, et déposé au cabinet d'historie naturelle de Madrid, redigée par G. Cuvier". Magasin encyclopédique, 2e anée, 1: 303-310.
++ Cuvier, Georges. 1804. "Sur le mégalonix, Animal de la famille des Paresseux, mais de la taille du Boeuf, dont les ossemens on été décourverts en Virginie, en 1796." Annales du Muséum National d'Histoire Naturelle, 5: 358-375.
++ Cuvier, Georges. 1812. Researches sur les ossemens fossilses de quadrupèdes, où l'on rétablit les caractères de plusieurs espèces d'animaux que les révolutions du globe paroissent avoir détruites. 4 vol. Paris: Deterville.
++ Desmarest, Anselme. 1822. Mammalogie ou description des espèces de mammifères. Seconde partie, contenant les ordres des rongeurs, des édentés, des pachydermes, des ruminans et des cétacés. M me Veuve Agasse, Paris, pp. i-viii, 277-556.
++ Jefferson, T. 1799. "A Memoir of the Discovery of certain Bone of a Quadruped of the Clawed Kind in the Western Parts of Virginia." Transactions of the American Philosophical Society, Vol. 4, No. 30, pp. 246-260.
++ Rudwick, M.J.S. 1997. Georges Cuvier, Fossil Bones and Geological Catastrophes: new translations. Chicago: University of Chicago Press.
++ Semonin, P. 2002. American Monster: How the nation's first prehistoric creature became a symbol of national identity. New York & London: New York University Press.
++ Wistar, Caspar. 1799. "A description of the Bones deposited by the President, in the Museum of the Society, and represented in the annexed plates." Transactions of the American Philosophical Society, Vol. 4, No. 71, pp. 526-531.
+
+*Notes:*
+
++ Although he was an excellent anatomist, Caspar Wistar didn't have access to the resources available to some European authorities. Lacking decent information about Megatherium but given Cuvier's conclusion that it was related to living sloths, Wistar compared Megalonyx with the South American three-toed sloth (Bradypus). Even here, however, he had to resort to Louis-Jean-Marie Daubenton's description of the sloth's foot as presented in Buffon's Histoire naturelle.
++ See Discovery of the Mastodon: Part 8 - Fossils in the White House for more information.
+
+*Image Credits:*
+
++ The image of Caspar Wistar courtesy of [Smithsonian Institution Libraries' Scientific Identity.](www.sil.si.edu/digitalcollections/hst/scientific-identity/intro.htm)
++ Leidy, Joseph. 1855. "A Memoir of the Extinct Sloth Tribe of North America." Smithsonian Contributions to Knowledge 7(5).
+
+## More about Ground Sloths
+
+([Back to ground sloths](#great-claw-megalonyx-jeffersonii))  
+
+![sloth skull](http://web.archive.org/web/20111017220222im_/http://www.ansp.org/museum/jefferson/illust/megalonyx_skull_leidy.jpg)
+
+Jefferson's ground sloth (Megalonyx jeffersonii) was about 8-10 ft (2.5-3 m) in length. It was a heavily built animal, with an estimated maximum weight of 800 lbs (360 kg). The massive skull had a blunt snout, massive jaw, and large peg-like teeth. The hind legs were plantigrade (flat-footed) and together with the stout tail allowed it to rear up into a semi-standing posture to feed on foliage in trees. The forelimbs had three well-developed claws that probably allowed it to strip leaves or manipulate branches.
+
+This species was one of the more widely distributed ground sloths of North America. Its fossils have been recorded from woodland and forest sites in most of the American states east of the Rocky Mountains and along the West Coast. It was the only ground sloth to be widely distributed in Canada and the only species to extend into eastern Beringia (Yukon and Alaska). It appeared in the fossil record during the Illinoian glaciation (more than 150,000 years ago) until the end of the Wisconsinan glaciation (about 10,000 years ago).
+
+Megalonyx jeffersonii was the last member of the family Megalonychidae. The earliest records for this family occur in Oligocene (approximately 35 million years ago) of Patagonia. Several South American genera are known from the middle Miocene, but the record for later members on that continent is poor. On the other hand, immigrants from South America evolved into a diverse array of species in the Caribbean from the late Miocene through the Pleistocene. Two genera, Pliometanastes and Megalonyx, colonized North America via the Caribbean. As a general trend, the megalonychids progressed from small arboreal forms (in South America) to larger, ground-dwelling forms in North America; many of the Caribbean species were relatively small, apparently because of the ecological restrictions of living on small islands.
+
+![more skull](http://web.archive.org/web/20111017220222im_/http://www.ansp.org/museum/jefferson/illust/megatherium_skull_cuvier.jpg)
+
+The remaining ground sloths belong to two other families, the Megatheriidae and the Mylodontidae. Unlike the Megalonychidae, most of the evolutionary history of these two families occurred in South America.
+
+The Megatheriidae consist of two main groups, megatheres and nothrotheres. The megatheres were huge animals reaching as much as 20 ft (6 m) in length and weighing up to 3 tons (2700 kg). The most common North American species was Eremotherium rusconii, which inhabited parts of Texas and the southeastern United States from the late Pliocene through the end of the Pleistocene. Another megathere, Megatherium americanum, was the first ground sloth to be discovered by Europeans (1). In contrast to the megatheres, the nothrotheres were smaller and more gracile (lightly-built). The most common and long-lived North American species, the Shasta ground sloth (Nothrotheriops shastensis), extended from South America into southwestern Canada. It's the best known of the ground sloths. Numerous specimens have been recorded from the La Brea tarpits of California and exceptional specimens from caves in the Colorado Plateau have informed us of its diet, hair, age structure and anatomy. Despite their differences in build, megatheres and nothrotheres share many characteristics, including a relatively long snout and other specializations for browsing shrubs and trees. Unlike Megalonyx, the toes on their hind limbs curved under their feet. Presumably, they were less capable walkers.
+
+The remaining family of ground sloths is the Mylodontidae. These were heavily built animals with short necks and massive chests. They had dermal ossicles (small boney plates underneath the thick hide) and like the Megatheriidae, the toes on their hind limbs curved underneath the feet. The most common North American mylodontidid was the Harlan's ground sloth (named by different authorities as either Paramylodon harlani or Glossotherium harlani). It was about 6 ft (1.8 m) in length and 3500 lbs (1600 Kg) in weight.
+
+The last of the ground sloths became extinct at the end of the Pleistocene. Their closest living relatives are the three-toed tree sloths (Bradypodidae) and the two-toed tree sloth (Choloepidae). Each tree sloth family is represented by a single genus, Bradypus and Choloepus, respectively, and both are restricted to South America. Detail of the teeth, hair and number of vertebrae indicate that the three-toed sloths are closely related to the Megatheridae, whereas Megalonyx is most closely allied with the two-toed sloths.
+
+All of the sloths belong to the order Xenarthra (or edentates), Other members of the order include armadillos, anteaters and extinct group of large, armored forms called glyptodonts. As a group, they're characterized by peg-like teeth that lack enamel (the anteaters have secondarily lost their teeth) and by a uniquely complex joint in their vertebrate (backbone). Xenarthrans are also notable for their metabolism. They're less capable of regulating their body temperature than are other placental mammals. This inability means that they are much less active than most other mammals. As it turns out, a sloth is slothful because of physiology, not attitude.
+
+![megatherium](http://web.archive.org/web/20111017220222im_/http://www.ansp.org/museum/jefferson/illust/megatherium_Bru-510.jpg)
+
+**Webpages:**
+
++ [Illinois State Museum's web page on ground sloths](www.museum.state.il.us/exhibits/larson/sloth.html)
++ [Tarpits.org's web page on ground sloths](www.tarpits.org/education/guide/flora/sloth.html)
++ [Yukon Berangia's web page on Megalonyx jeffersonii](www.beringia.com/02/02maina1.html)
+
+**Print Resources:**
+
++ Bru, Juan Bautista. 1796. "Descripción del esqueleto en particular, segun las observaciones hechas al tiempo de amarle y cococarle en esta Real Cabinente." pp. 1-16, Pl 1-5. in: José Garriga (ed.) Descripción del esqueleto de un quadropedo myy porpulento y rara, que se conserva en Real Cabinente de Historia Natural de Madria. Madrid: Viude del Ibarra.
++ Carroll, R.L. 1988. Vertebrate Paleontology and Evolution. New York: W.H. Freeman and Company.
++ Cuvier, Geoges. 1796. "Notice sur le squelette d'une très-grande espèce de quadrupède onconnue jusqu'à présent, trouvé au Paraguay, et déposé au cabinet d'historie naturelle de Madrid, redigée par G. Cuvier". Magasin encyclopédique, 2e anée, 1: 303-310.
++ Kurtén, B. and E. Anderson. 1980. Pleistocene Mammals of North America. New York: Columbia University Press.
++ Lang, I.A. 2002. Ice Age Mammals of North America: A Guide to the Big, the Hairy, and the Bizarre. Missoula: Mounain Press.
++ Webb. S.S. 1994. "Successful in Spite of Themselves." Natural History 103(4): 50-53.
+
+*Notes:*
+
++ A nearly complete skeleton of Megatherium was discovered in present-day Paraguay in 1789. The bones were sent to Spain where they were reassembled by Juan-Bautista Bru, a conservator at the Royal Museum in Madrid. A copy of Bru's unpublished illustration and a short description of the skeleton was taken to France and examined by Georges Cuvier. In 1796, Cuvier published a paper describing this startlingly large and bizarre animal. He identified it as a relative of the sloth and armadillo, and named it Megatherium. (=giant beast). Bru also published a description of the animal in 1796.
+
+*Image Credits:*
+
++ Leidy, Joseph. 1855. "A Memoir of the Extinct Sloth Tribe of North America." Smithsonian Contributions to Knowledge 7(5). 
+ Cuvier, Georges. 1812. Researches sur les ossemens fossiles de quadrupèdes, òu l'on rétablit les caractères de plusieurs espèces d'animaux que les révolutions du globe paroissent avoir détruites. 4 vol. Paris: Deterville.
 ---------------------------------------
 
-Other Fossils
--------------------------------------
+Other Fossils (coming soon!)
+=============
+
+([Back to top](#thomas-jefferson-fossil-collection))  
+([Back to other fossils](#other-fossils))  
+
+## Other fossils in the Jefferson Collection at the Academy
 
 > 1. Ancient Bison *(Bison antiquus)*
 > 2. Ancient Horse *(Equus cf. E. complicatus)*
@@ -485,22 +663,39 @@ Other Fossils
 > 5. Stag Moose *(Cervalces scotti)*
 > 6. Woolly Mammoth *(Mammuthus primigenius)*
 
-#### Ancient Bison *(Bison antiquus)*
+## Ancient Bison *(Bison antiquus)*
 
-#### Ancient Horse *(Equus cf. E. complicatus)*
+([Back to other fossils](#other-fossils))  
 
-#### Harlan's Musk Ox *(Bootherium bombifrons)*
+## Ancient Horse *(Equus cf. E. complicatus)*
 
-#### Megalodon Shark *(Carcharocles megalodon)*
+([Back to other fossils](#other-fossils))  
 
-#### Stag Moose *(Cervalces scotti)*
+## Harlan's Musk Ox *(Bootherium bombifrons)*
 
-#### Woolly Mammoth *(Mammuthus primigenius)*
+([Back to other fossils](#other-fossils))  
+
+## Megalodon Shark *(Carcharocles megalodon)*
+
+([Back to other fossils](#other-fossils))  
+
+## Stag Moose *(Cervalces scotti)*
+
+([Back to other fossils](#other-fossils))  
+
+## Woolly Mammoth *(Mammuthus primigenius)*
+
+([Back to other fossils](#other-fossils))  
 
 ---------------------------------------
 
-Other Pages
--------------------------------------
+Other Pages (coming soon!)
+===========
+
+([Back to top](#thomas-jefferson-fossil-collection))  
+([Back to other pages](#other-pages))  
+
+## External Websites for more references
 
 > 1. Big Bone Lick (fossil locality in Kentucky)
 > 2. Buffon's American Degeneracy
@@ -513,36 +708,63 @@ Other Pages
 > 9. Philadelphia School of Paleontology
 > 10. Product of The Enlightenment
 
-#### Big Bone Lick (fossil locality in Kentucky)
+## Big Bone Lick (fossil locality in Kentucky)
 
-#### Buffon's American Degeneracy
+([Back to other pages](#other-pages))  
+
+## Buffon's American Degeneracy
+
+([Back to other pages](#other-pages))  
+
 *Part 1 - Old World vs. New*
+
 *Part 2 - The American Reaction*
+
 *Part 3 - Modern Perspectives*
 
-#### Buffon's Epochs of Nature
+## Buffon's Epochs of Nature
 
-#### Cuvier's Revolutions of the Globe
+([Back to other pages](#other-pages))  
 
-#### Fossils and Extinction
+## Cuvier's Revolutions of the Globe
 
-#### Jefferson's Notes on the State of Virginia
+([Back to other pages](#other-pages))  
 
-#### A Sampling of Notes on the State of Virginia
+## Fossils and Extinction
 
-#### Peale's Philadelphia Museum
+([Back to other pages](#other-pages))  
 
-#### Philadelphia School of Paleontology
+## Jefferson's Notes on the State of Virginia
 
-#### Product of The Enlightenment
+([Back to other pages](#other-pages))  
+
+## A Sampling of Notes on the State of Virginia
+
+([Back to other pages](#other-pages))  
+
+## Peale's Philadelphia Museum
+
+([Back to other pages](#other-pages))  
+
+## Philadelphia School of Paleontology
+
+([Back to other pages](#other-pages))  
+
+## Product of The Enlightenment
+
+([Back to other pages](#other-pages))  
 
 ---------------------------------------
 
 Online Exhibit Credits
--------------------------------------
+======================
 
-The Save America's Treasures Program provided the funding for this Online Exhibit on the Thomas Jefferson Fossil Collection. Save America's Treasures grants are administered by the National Park Service in partnership with the National Endowment for the Arts, the National Endowment for the Humanities, the Institute of Museum and Library Services and the President's Committee on the Arts and the Humanities.
+([Back to top](#thomas-jefferson-fossil-collection))  
 
-Production of the exhibit was directed by Dr. Edward B. Daeschler of The Academy of Natural Sciences in Philadelphia. Dr. Daeschler also provided scientific, editorial and imaging assistance. Additional imaging was provided by Eileen Mathias of the Albert M. Greenfield Digital Imaging Center for Collections and the Ewell Sale Stewart Library at The Academy of Natural Sciences in Philadelphia.
+The Save America's Treasures Program provided the original funding for this Online Exhibit on the Thomas Jefferson Fossil Collection. Save America's Treasures grants are administered by the National Park Service in partnership with the National Endowment for the Arts, the National Endowment for the Humanities, the Institute of Museum and Library Services and the President's Committee on the Arts and the Humanities.
 
-This exhibit was originally designed, written and developed by Dennis C. Murphy. In 2017 it was revised and rewritten by Vincent O'Leary.
+Production of the exhibit was directed by Dr. Edward B. Daeschler of The Academy of Natural Sciences of Drexel University in Philadelphia. Dr. Daeschler also provided scientific, editorial and imaging assistance. Additional imaging was provided by Eileen Mathias of the Albert M. Greenfield Digital Imaging Center for Collections and the Ewell Sale Stewart Library at The Academy of Natural Sciences in Philadelphia.
+
+This exhibit was originally designed, written and developed by Dennis C. Murphy.
+
+In 2017 it was revised and rewritten by Vincent J. O'Leary, in collaboration with Dr. Edward B. Daeschler and the Academy of Natural Sciences of Drexel University.
