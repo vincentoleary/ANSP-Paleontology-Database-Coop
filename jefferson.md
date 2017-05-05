@@ -1,4 +1,6 @@
-**Thomas Jefferson Fossil Collection**
+![Mammut tibia](http://web.archive.org/web/20110522092507im_/http://www.ansp.org/museum/jefferson/fossils/mammut_tibia_home_510.jpg)
+
+[**Thomas Jefferson Fossil Collection**](http://web.archive.org/web/20110522092507/http://www.ansp.org/museum/jefferson/index.php)
 ==================================
 
 If you were a guest at Thomas Jefferson's home at Monticello, you could see things that revealed the intellectual range of this remarkable Founding Father. The house, designed by Jefferson himself, was perhaps the most beautiful building in the new republic and inside it was the nation's greatest library. Throughout the building's public spaces you would see images and statues of major politicians and philosophers. And in the entry hall more a museum than anything else you could examine a variety of natural history and ethnographic specimens, including some from the Lewis and Clark Expedition. Among these displays were fossils of an impressive giant, the American mastodon.
@@ -11,15 +13,15 @@ Jefferson is rightfully renowned as the principal author of the Declaration of I
 
 Some of the fruits of Jefferson's paleontology became part of the collections at the American Philosophical Society in Philadelphia. Beginning in 1849 these holdings were transferred over to the Academy of Natural Sciences of Philadelphia, where they are currently housed. This is the Thomas Jefferson Fossil Collection.
 
+-----------------------------------
+
 Welcome to this online exhibit. Examine the fossils and explore the science and history surrounding this collection:
 
-> + The [**American Mastodon**](#history-of-the-discovery-of-the-mastodon) is the most important species in this collection. The identity and nature of this mysterious creature captured the interest and imagination of people in both Europe and North America. Learn more about the history of its discovery.
-> + The [**Giant Claw, or *Megalonyx***](#history-of-the-discovery-of-the-ground-sloth), was the subject of the first scientific papers in American paleontology and remains an important specimen in the collections today.
-> + [**Other fossil animals**](#other-fossils) that are also part of Jefferson's collection.
-> + [**Other pages**](#other-pages) has information from other websites about important naturalists, scientists, and ideas from the Age of Jefferson.
-> + [**Exhibit credits**](#online-exhibit-credits)
-
-![Mammut tibia](http://web.archive.org/web/20110522092507im_/http://www.ansp.org/museum/jefferson/fossils/mammut_tibia_home_510.jpg)
+> + The [American Mastodon](#history-of-the-discovery-of-the-mastodon) is the most important species in this collection. The identity and nature of this mysterious creature captured the interest and imagination of people in both Europe and North America. Learn more about the history of its discovery.
+> + The [Giant Claw, or *Megalonyx*](#history-of-the-discovery-of-the-ground-sloth), was the subject of the first scientific papers in American paleontology and remains an important specimen in the collections today.
+> + [Other fossil animals](#other-fossils) that are also part of Jefferson's collection.
+> + [Other pages](#other-pages) has information from other websites about important naturalists, scientists, and ideas from the Age of Jefferson.
+> + [Exhibit credits](#online-exhibit-credits)
 
 ---------------------------------------
 
