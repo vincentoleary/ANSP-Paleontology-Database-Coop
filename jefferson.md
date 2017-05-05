@@ -14,13 +14,9 @@ Some of the fruits of Jefferson's paleontology became part of the collections at
 Welcome to this online exhibit. Examine the fossils and explore the science and history surrounding this collection:
 
 > + The [**American Mastodon**](#history-of-the-discovery-of-the-mastodon) is the most important species in this collection. The identity and nature of this mysterious creature captured the interest and imagination of people in both Europe and North America. Learn more about the history of its discovery.
-
 > + The [**Giant Claw, or *Megalonyx***](#history-of-the-discovery-of-the-ground-sloth), was the subject of the first scientific papers in American paleontology and remains an important specimen in the collections today.
-
 > + [**Other fossil animals**](#other-fossils) that are also part of Jefferson's collection.
-
 > + [**Other pages**](#other-pages) has information from other websites about important naturalists, scientists, and ideas from the Age of Jefferson.
-
 > + [**Exhibit credits**](#online-exhibit-credits)
 
 ![Mammut tibia](http://web.archive.org/web/20110522092507im_/http://www.ansp.org/museum/jefferson/fossils/mammut_tibia_home_510.jpg)
@@ -644,7 +640,7 @@ All of the sloths belong to the order Xenarthra (or edentates), Other members of
 
 *Image Credits:*
 
-+ Leidy, Joseph. 1855. "A Memoir of the Extinct Sloth Tribe of North America." Smithsonian Contributions to Knowledge 7(5). 
++ Leidy, Joseph. 1855. "A Memoir of the Extinct Sloth Tribe of North America." Smithsonian Contributions to Knowledge 7(5).
  Cuvier, Georges. 1812. Researches sur les ossemens fossiles de quadrupèdes, òu l'on rétablit les caractères de plusieurs espèces d'animaux que les révolutions du globe paroissent avoir détruites. 4 vol. Paris: Deterville.
 ---------------------------------------
 
