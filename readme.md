@@ -6,6 +6,6 @@ The file database.md is a description of our database schema in Filemaker and ho
 
 The file dig_workflows.md will be a description for our digitization workflows and how we are sharing our collections online through resources like iDigBio and PaleoBioDB
 
-The proposed website for the lab is currently hosted on the gh-pages branch and can be viewed directly at [http://www.vincentoleary.com/ansp_vertpaleoDB/ ](https://vincentoleary.github.io/ANSP/)
+The proposed website for the lab is currently hosted on the gh-pages branch and can be viewed directly at [https://vincentoleary.github.io/ANSP/](https://vincentoleary.github.io/ANSP/)
 
 Other files for our website and UUID system will be added as well. Check back soon!
